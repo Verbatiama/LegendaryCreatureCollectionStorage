@@ -1033,7 +1033,7 @@
  },
  {
    "Name": "Diaochan, Artful Beauty",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$136.36",
    "Book": 1,
    "Page": 15,
@@ -2865,7 +2865,7 @@
  },
  {
    "Name": "Lim-Dûl the Necromancer",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$1.59",
    "Book": 1,
    "Page": 40,
@@ -9297,7 +9297,7 @@
  },
  {
    "Name": "Ragavan, Nimble Pilferer",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$23.57",
    "Book": 4,
    "Page": 130,
@@ -11417,7 +11417,7 @@
  },
  {
    "Name": "Firkraag, Cunning Instigator",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$4.78",
    "Book": 4,
    "Page": 159,
@@ -11457,7 +11457,7 @@
  },
  {
    "Name": "Sheoldred, the Apocalypse",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$74.55",
    "Book": 4,
    "Page": 160,
@@ -11849,7 +11849,7 @@
  },
  {
    "Name": "Greensleeves, Maro-Sorcerer",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$18.89",
    "Book": 5,
    "Page": 165,
@@ -12497,7 +12497,7 @@
  },
  {
    "Name": "Myrel, Shield of Argive",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$20.65",
    "Book": 5,
    "Page": 174,
@@ -12537,7 +12537,7 @@
  },
  {
    "Name": "Gix, Yawgmoth Praetor",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$9.42",
    "Book": 5,
    "Page": 175,
@@ -12569,7 +12569,7 @@
  },
  {
    "Name": "Titania, Voice of Gaea",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$8.74",
    "Book": 5,
    "Page": 175,
@@ -12753,7 +12753,7 @@
  },
  {
    "Name": "Starscream, Power Hungry // Starscream, Seeker Leader",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$1.85",
    "Book": 5,
    "Page": 178,
@@ -12857,7 +12857,7 @@
  },
  {
    "Name": "Preston, the Vanisher",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$22.79",
    "Book": 5,
    "Page": 179,
@@ -12905,7 +12905,7 @@
  },
  {
    "Name": "Ardoz, Cobbler of War",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$2.80",
    "Book": 5,
    "Page": 180,
@@ -12953,7 +12953,7 @@
  },
  {
    "Name": "Elesh Norn, Mother of Machines",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$24.54",
    "Book": 5,
    "Page": 180,
@@ -13041,7 +13041,7 @@
  },
  {
    "Name": "Solphim, Mayhem Dominus",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$16.14",
    "Book": 5,
    "Page": 182,
@@ -13057,7 +13057,7 @@
  },
  {
    "Name": "Zopandrel, Hunger Dominus",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$11.66",
    "Book": 5,
    "Page": 182,
@@ -13225,7 +13225,7 @@
  },
  {
    "Name": "Themberchaud",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$34.90",
    "Book": 5,
    "Page": 184,
@@ -13313,7 +13313,7 @@
  },
  {
    "Name": "Jin-Gitaxias // The Great Synthesis",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$4.74",
    "Book": 5,
    "Page": 185,
@@ -13369,7 +13369,7 @@
  },
  {
    "Name": "Urabrask // The Great Work",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$14.45",
    "Book": 5,
    "Page": 186,
@@ -13377,7 +13377,7 @@
  },
  {
    "Name": "Invasion of Ikoria // Zilortha, Apex of Ikoria",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$7.28",
    "Book": 5,
    "Page": 186,
@@ -13393,7 +13393,7 @@
  },
  {
    "Name": "Vorinclex // The Grand Evolution",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$7.88",
    "Book": 5,
    "Page": 187,
@@ -13545,7 +13545,7 @@
  },
  {
    "Name": "Orthion, Hero of Lavabrink",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$1.92",
    "Book": 5,
    "Page": 189,
@@ -13689,7 +13689,7 @@
  },
  {
    "Name": "Nissa, Resurgent Animist",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$20.52",
    "Book": 5,
    "Page": 191,
@@ -14081,7 +14081,7 @@
  },
  {
    "Name": "Lord of the Nazgûl",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$1.57",
    "Book": 5,
    "Page": 196,
@@ -14521,7 +14521,7 @@
  },
  {
    "Name": "Galadriel of Lothlórien",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.25",
    "Book": 6,
    "Page": 202,
@@ -15721,7 +15721,7 @@
  },
  {
    "Name": "Galadriel, Light of Valinor",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$12.85",
    "Book": 6,
    "Page": 219,
@@ -15745,7 +15745,7 @@
  },
  {
    "Name": "Blue, Loyal Raptor",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$3.10",
    "Book": 6,
    "Page": 219,
@@ -15769,7 +15769,7 @@
  },
  {
    "Name": "Ian Malcolm, Chaotician",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$3.76",
    "Book": 6,
    "Page": 220,
@@ -15785,7 +15785,7 @@
  },
  {
    "Name": "Indoraptor, the Perfect Hybrid",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$16.25",
    "Book": 6,
    "Page": 220,
@@ -15801,7 +15801,7 @@
  },
  {
    "Name": "Ojer Taq, Deepest Foundation // Temple of Civilization",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$32.42",
    "Book": 6,
    "Page": 220,
@@ -15825,7 +15825,7 @@
  },
  {
    "Name": "Ojer Pakpatiq, Deepest Epoch // Temple of Cyclical Time",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$2.97",
    "Book": 6,
    "Page": 220,
@@ -15841,7 +15841,7 @@
  },
  {
    "Name": "Breeches, Eager Pillager",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.86",
    "Book": 6,
    "Page": 221,
@@ -15857,7 +15857,7 @@
  },
  {
    "Name": "Ojer Axonil, Deepest Might // Temple of Power",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$9.68",
    "Book": 6,
    "Page": 221,
@@ -15881,7 +15881,7 @@
  },
  {
    "Name": "Ojer Kaslem, Deepest Growth // Temple of Cultivation",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$5.30",
    "Book": 6,
    "Page": 221,
@@ -15921,7 +15921,7 @@
  },
  {
    "Name": "Anim Pakal, Thousandth Moon",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$2.58",
    "Book": 6,
    "Page": 222,
@@ -16049,7 +16049,7 @@
  },
  {
    "Name": "Clavileño, First of the Blessed",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.48",
    "Book": 6,
    "Page": 223,
@@ -16057,7 +16057,7 @@
  },
  {
    "Name": "Hakbal of the Surging Soul",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.52",
    "Book": 6,
    "Page": 224,
@@ -16097,7 +16097,7 @@
  },
  {
    "Name": "Xolatoyac, the Smiling Flood",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$1.50",
    "Book": 6,
    "Page": 224,
@@ -16137,7 +16137,7 @@
  },
  {
    "Name": "Rose Noble",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$7.85",
    "Book": 6,
    "Page": 225,
@@ -16177,7 +16177,7 @@
  },
  {
    "Name": "Delney, Streetwise Lookout",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$30.98",
    "Book": 6,
    "Page": 225,
@@ -16233,7 +16233,7 @@
  },
  {
    "Name": "Aurelia, the Law Above",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$1.11",
    "Book": 6,
    "Page": 226,
@@ -16369,7 +16369,7 @@
  },
  {
    "Name": "Voja, Jaws of the Conclave",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$6.00",
    "Book": 6,
    "Page": 228,
@@ -16417,7 +16417,7 @@
  },
  {
    "Name": "Feather, Radiant Arbiter",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.18",
    "Book": 6,
    "Page": 229,
@@ -16529,7 +16529,7 @@
  },
  {
    "Name": "Dogmeat, Ever Loyal",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.25",
    "Book": 6,
    "Page": 230,
@@ -16537,7 +16537,7 @@
  },
  {
    "Name": "Dr. Madison Li",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.27",
    "Book": 6,
    "Page": 230,
@@ -16553,7 +16553,7 @@
  },
  {
    "Name": "Liberty Prime, Recharged",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.22",
    "Book": 6,
    "Page": 230,
@@ -16585,7 +16585,7 @@
  },
  {
    "Name": "Aradesh, the Founder",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.08",
    "Book": 6,
    "Page": 231,
@@ -16601,7 +16601,7 @@
  },
  {
    "Name": "Commander Sofia Daguerre",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.10",
    "Book": 6,
    "Page": 231,
@@ -16609,7 +16609,7 @@
  },
  {
    "Name": "Overseer of Vault 76",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.13",
    "Book": 6,
    "Page": 231,
@@ -16617,7 +16617,7 @@
  },
  {
    "Name": "Paladin Danse, Steel Maverick",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.19",
    "Book": 6,
    "Page": 231,
@@ -16625,7 +16625,7 @@
  },
  {
    "Name": "Sierra, Nuka's Biggest Fan",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.17",
    "Book": 6,
    "Page": 231,
@@ -16633,7 +16633,7 @@
  },
  {
    "Name": "Yes Man, Personal Securitron",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.41",
    "Book": 6,
    "Page": 232,
@@ -16641,7 +16641,7 @@
  },
  {
    "Name": "Curie, Emergent Intelligence",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.40",
    "Book": 6,
    "Page": 232,
@@ -16649,7 +16649,7 @@
  },
  {
    "Name": "James, Wandering Dad // Follow Him",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.10",
    "Book": 6,
    "Page": 232,
@@ -16657,7 +16657,7 @@
  },
  {
    "Name": "Jason Bright, Glowing Prophet",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.17",
    "Book": 6,
    "Page": 232,
@@ -16673,7 +16673,7 @@
  },
  {
    "Name": "Piper Wright, Publick Reporter",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.25",
    "Book": 6,
    "Page": 232,
@@ -16681,7 +16681,7 @@
  },
  {
    "Name": "Butch DeLoria, Tunnel Snake",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.15",
    "Book": 6,
    "Page": 232,
@@ -16705,7 +16705,7 @@
  },
  {
    "Name": "Ian the Reckless",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.09",
    "Book": 6,
    "Page": 233,
@@ -16737,7 +16737,7 @@
  },
  {
    "Name": "Harold and Bob, First Numens",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.12",
    "Book": 6,
    "Page": 233,
@@ -16745,7 +16745,7 @@
  },
  {
    "Name": "Lily Bowen, Raging Grandma",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.14",
    "Book": 6,
    "Page": 233,
@@ -16753,7 +16753,7 @@
  },
  {
    "Name": "Strong, the Brutish Thespian",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.08",
    "Book": 6,
    "Page": 233,
@@ -16761,7 +16761,7 @@
  },
  {
    "Name": "Agent Frank Horrigan",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$1.23",
    "Book": 6,
    "Page": 233,
@@ -16769,7 +16769,7 @@
  },
  {
    "Name": "Arcade Gannon",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.08",
    "Book": 6,
    "Page": 233,
@@ -16785,7 +16785,7 @@
  },
  {
    "Name": "Cass, Hand of Vengeance",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.09",
    "Book": 6,
    "Page": 234,
@@ -16801,7 +16801,7 @@
  },
  {
    "Name": "Craig Boone, Novac Guard",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.18",
    "Book": 6,
    "Page": 234,
@@ -16817,7 +16817,7 @@
  },
  {
    "Name": "Elder Arthur Maxson",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.13",
    "Book": 6,
    "Page": 234,
@@ -16825,7 +16825,7 @@
  },
  {
    "Name": "Elder Owyn Lyons",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.07",
    "Book": 6,
    "Page": 234,
@@ -16833,7 +16833,7 @@
  },
  {
    "Name": "Kellogg, Dangerous Mind",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$2.45",
    "Book": 6,
    "Page": 234,
@@ -16841,7 +16841,7 @@
  },
  {
    "Name": "Legate Lanius, Caesar's Ace",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.10",
    "Book": 6,
    "Page": 234,
@@ -16857,7 +16857,7 @@
  },
  {
    "Name": "Marcus, Mutant Mayor",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.13",
    "Book": 6,
    "Page": 235,
@@ -16873,7 +16873,7 @@
  },
  {
    "Name": "Paladin Elizabeth Taggerdy",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.16",
    "Book": 6,
    "Page": 235,
@@ -16881,7 +16881,7 @@
  },
  {
    "Name": "Raul, Trouble Shooter",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.19",
    "Book": 6,
    "Page": 235,
@@ -16889,7 +16889,7 @@
  },
  {
    "Name": "Red Death, Shipwrecker",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.16",
    "Book": 6,
    "Page": 235,
@@ -16897,7 +16897,7 @@
  },
  {
    "Name": "Rex, Cyber-Hound",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.12",
    "Book": 6,
    "Page": 235,
@@ -16905,7 +16905,7 @@
  },
  {
    "Name": "Sentinel Sarah Lyons",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.15",
    "Book": 6,
    "Page": 235,
@@ -16913,7 +16913,7 @@
  },
  {
    "Name": "Shaun, Father of Synths",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.18",
    "Book": 6,
    "Page": 235,
@@ -16921,7 +16921,7 @@
  },
  {
    "Name": "Three Dog, Galaxy News DJ",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.12",
    "Book": 6,
    "Page": 236,
@@ -16929,7 +16929,7 @@
  },
  {
    "Name": "ED-E, Lonesome Eyebot",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.06",
    "Book": 6,
    "Page": 236,
@@ -16945,7 +16945,7 @@
  },
  {
    "Name": "Fblthp, Lost on the Range",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.27",
    "Book": 6,
    "Page": 236,
@@ -16961,7 +16961,7 @@
  },
  {
    "Name": "Gisa, the Hellraiser",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$4.59",
    "Book": 6,
    "Page": 236,
@@ -16977,7 +16977,7 @@
  },
  {
    "Name": "Tinybones, the Pickpocket",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$8.25",
    "Book": 6,
    "Page": 236,
@@ -17009,7 +17009,7 @@
  },
  {
    "Name": "Bristly Bill, Spine Sower",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$41.93",
    "Book": 6,
    "Page": 237,
@@ -17105,7 +17105,7 @@
  },
  {
    "Name": "Honest Rutstein",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.35",
    "Book": 6,
    "Page": 238,
@@ -17129,7 +17129,7 @@
  },
  {
    "Name": "Kambal, Profiteering Mayor",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$4.08",
    "Book": 6,
    "Page": 238,
@@ -17153,7 +17153,7 @@
  },
  {
    "Name": "Laughing Jasper Flint",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.74",
    "Book": 6,
    "Page": 239,
@@ -17225,7 +17225,7 @@
  },
  {
    "Name": "Roxanne, Starfall Savant",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.79",
    "Book": 6,
    "Page": 240,
@@ -17233,7 +17233,7 @@
  },
  {
    "Name": "Satoru, the Infiltrator",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$2.06",
    "Book": 6,
    "Page": 240,
@@ -17305,7 +17305,7 @@
  },
  {
    "Name": "Yuma, Proud Protector",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.27",
    "Book": 7,
    "Page": 241,
@@ -17353,7 +17353,7 @@
  },
  {
    "Name": "Emrakul, the World Anew",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$8.08",
    "Book": 7,
    "Page": 242,
@@ -17361,7 +17361,7 @@
  },
  {
    "Name": "Herigast, Erupting Nullkite",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$1.17",
    "Book": 7,
    "Page": 242,
@@ -17377,7 +17377,7 @@
  },
  {
    "Name": "Ulamog, the Defiler",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$28.64",
    "Book": 7,
    "Page": 242,
@@ -17425,7 +17425,7 @@
  },
  {
    "Name": "Eladamri, Korvecdal",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$7.74",
    "Book": 7,
    "Page": 243,
@@ -17441,7 +17441,7 @@
  },
  {
    "Name": "Arna Kennerüd, Skycaptain",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.61",
    "Book": 7,
    "Page": 243,
@@ -17457,7 +17457,7 @@
  },
  {
    "Name": "Imskir Iron-Eater",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.20",
    "Book": 7,
    "Page": 243,
@@ -17473,7 +17473,7 @@
  },
  {
    "Name": "Nadu, Winged Wisdom",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.41",
    "Book": 7,
    "Page": 243,
@@ -17489,7 +17489,7 @@
  },
  {
    "Name": "Phlage, Titan of Fire's Fury",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$16.24",
    "Book": 7,
    "Page": 243,
@@ -17505,7 +17505,7 @@
  },
  {
    "Name": "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$12.44",
    "Book": 7,
    "Page": 244,
@@ -17513,7 +17513,7 @@
  },
  {
    "Name": "Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$37.86",
    "Book": 7,
    "Page": 244,
@@ -17529,7 +17529,7 @@
  },
  {
    "Name": "Ral, Monsoon Mage // Ral, Leyline Prodigy",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$4.30",
    "Book": 7,
    "Page": 244,
@@ -17537,7 +17537,7 @@
  },
  {
    "Name": "Grist, Voracious Larva // Grist, the Plague Swarm",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$2.77",
    "Book": 7,
    "Page": 244,
@@ -17553,7 +17553,7 @@
  },
  {
    "Name": "Omo, Queen of Vesuva",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.20",
    "Book": 7,
    "Page": 244,
@@ -17569,7 +17569,7 @@
  },
  {
    "Name": "Ulalek, Fused Atrocity",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.79",
    "Book": 7,
    "Page": 245,
@@ -17625,7 +17625,7 @@
  },
  {
    "Name": "Senu, Keen-Eyed Protector",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$1.36",
    "Book": 7,
    "Page": 245,
@@ -17641,7 +17641,7 @@
  },
  {
    "Name": "Leonardo da Vinci",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$1.44",
    "Book": 7,
    "Page": 246,
@@ -17649,7 +17649,7 @@
  },
  {
    "Name": "Desmond Miles",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.64",
    "Book": 7,
    "Page": 246,
@@ -17705,7 +17705,7 @@
  },
  {
    "Name": "Altaïr Ibn-La'Ahad",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$3.35",
    "Book": 7,
    "Page": 246,
@@ -17761,7 +17761,7 @@
  },
  {
    "Name": "Edward Kenway",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$13.53",
    "Book": 7,
    "Page": 247,
@@ -17865,7 +17865,7 @@
  },
  {
    "Name": "Sokrates, Athenian Teacher",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.46",
    "Book": 7,
    "Page": 249,
@@ -17873,7 +17873,7 @@
  },
  {
    "Name": "Eivor, Battle-Ready",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$1.12",
    "Book": 7,
    "Page": 249,
@@ -17881,7 +17881,7 @@
  },
  {
    "Name": "Ezio, Blade of Vengeance",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$3.90",
    "Book": 7,
    "Page": 249,
@@ -17889,7 +17889,7 @@
  },
  {
    "Name": "Surtr, Fiery Jötun",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.66",
    "Book": 7,
    "Page": 249,
@@ -17897,7 +17897,7 @@
  },
  {
    "Name": "Achilles Davenport",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$3.25",
    "Book": 7,
    "Page": 249,
@@ -17929,7 +17929,7 @@
  },
  {
    "Name": "Maha, Its Feathers Night",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$8.25",
    "Book": 7,
    "Page": 250,
@@ -17945,7 +17945,7 @@
  },
  {
    "Name": "Dragonhawk, Fate's Tempest",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$3.50",
    "Book": 7,
    "Page": 250,
@@ -17953,7 +17953,7 @@
  },
  {
    "Name": "Lumra, Bellow of the Woods",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$10.87",
    "Book": 7,
    "Page": 250,
@@ -18017,7 +18017,7 @@
  },
  {
    "Name": "Helga, Skittish Seer",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$1.87",
    "Book": 7,
    "Page": 251,
@@ -18033,7 +18033,7 @@
  },
  {
    "Name": "The Infamous Cruelclaw",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$2.13",
    "Book": 7,
    "Page": 251,
@@ -18073,7 +18073,7 @@
  },
  {
    "Name": "Ygra, Eater of All",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$11.12",
    "Book": 7,
    "Page": 252,
@@ -18089,7 +18089,7 @@
  },
  {
    "Name": "Bria, Riptide Rogue",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$10.13",
    "Book": 7,
    "Page": 252,
@@ -18097,7 +18097,7 @@
  },
  {
    "Name": "Byrke, Long Ear of the Law",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$3.88",
    "Book": 7,
    "Page": 252,
@@ -18169,7 +18169,7 @@
  },
  {
    "Name": "Flubs, the Fool",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$1.07",
    "Book": 7,
    "Page": 253,
@@ -18177,7 +18177,7 @@
  },
  {
    "Name": "Toby, Beastie Befriender",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.30",
    "Book": 7,
    "Page": 253,
@@ -18185,7 +18185,7 @@
  },
  {
    "Name": "The Wandering Rescuer",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$1.13",
    "Book": 7,
    "Page": 253,
@@ -18193,7 +18193,7 @@
  },
  {
    "Name": "The Mindskinner",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$1.36",
    "Book": 7,
    "Page": 253,
@@ -18209,7 +18209,7 @@
  },
  {
    "Name": "Norin, Swift Survivalist",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.05",
    "Book": 7,
    "Page": 253,
@@ -18217,7 +18217,7 @@
  },
  {
    "Name": "Altanak, the Thrice-Called",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.17",
    "Book": 7,
    "Page": 254,
@@ -18225,7 +18225,7 @@
  },
  {
    "Name": "Kona, Rescue Beastie",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$1.44",
    "Book": 7,
    "Page": 254,
@@ -18233,7 +18233,7 @@
  },
  {
    "Name": "Tyvar, the Pummeler",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$3.88",
    "Book": 7,
    "Page": 254,
@@ -18249,7 +18249,7 @@
  },
  {
    "Name": "The Jolly Balloon Man",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.70",
    "Book": 7,
    "Page": 254,
@@ -18257,7 +18257,7 @@
  },
  {
    "Name": "Marina Vendrell",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.19",
    "Book": 7,
    "Page": 254,
@@ -18265,7 +18265,7 @@
  },
  {
    "Name": "Nashi, Searcher in the Dark",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.19",
    "Book": 7,
    "Page": 254,
@@ -18273,7 +18273,7 @@
  },
  {
    "Name": "Niko, Light of Hope",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.38",
    "Book": 7,
    "Page": 254,
@@ -18281,7 +18281,7 @@
  },
  {
    "Name": "Rip, Spawn Hunter",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.14",
    "Book": 7,
    "Page": 254,
@@ -18289,7 +18289,7 @@
  },
  {
    "Name": "The Swarmweaver",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.24",
    "Book": 7,
    "Page": 255,
@@ -18313,7 +18313,7 @@
  },
  {
    "Name": "Zimone, All-Questioning",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.10",
    "Book": 7,
    "Page": 255,
@@ -18321,7 +18321,7 @@
  },
  {
    "Name": "Marvin, Murderous Mimic",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$2.08",
    "Book": 7,
    "Page": 255,
@@ -18345,7 +18345,7 @@
  },
  {
    "Name": "The Lord of Pain",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$9.56",
    "Book": 7,
    "Page": 255,
@@ -18353,7 +18353,7 @@
  },
  {
    "Name": "The Master of Keys",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.62",
    "Book": 7,
    "Page": 255,
@@ -18361,7 +18361,7 @@
  },
  {
    "Name": "Rendmaw, Creaking Nest",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.56",
    "Book": 7,
    "Page": 256,
@@ -18369,7 +18369,7 @@
  },
  {
    "Name": "Valgavoth, Harrower of Souls",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$8.52",
    "Book": 7,
    "Page": 256,
@@ -18449,7 +18449,7 @@
  },
  {
    "Name": "Tinybones, Bauble Burglar",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.69",
    "Book": 7,
    "Page": 257,
@@ -18457,7 +18457,7 @@
  },
  {
    "Name": "Zul Ashur, Lich Lord",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$3.19",
    "Book": 7,
    "Page": 257,
@@ -18497,7 +18497,7 @@
  },
  {
    "Name": "Koma, World-Eater",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$2.00",
    "Book": 7,
    "Page": 257,
@@ -18505,7 +18505,7 @@
  },
  {
    "Name": "Kykar, Zephyr Awakener",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.24",
    "Book": 7,
    "Page": 258,
@@ -18521,7 +18521,7 @@
  },
  {
    "Name": "Zimone, Paradox Sculptor",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$3.32",
    "Book": 7,
    "Page": 258,
@@ -18545,7 +18545,7 @@
  },
  {
    "Name": "Qala, Ajani's Pridemate",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.29",
    "Book": 7,
    "Page": 258,
@@ -18553,7 +18553,7 @@
  },
  {
    "Name": "Thurid, Mare of Destiny",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$5.74",
    "Book": 7,
    "Page": 258,
@@ -18561,7 +18561,7 @@
  },
  {
    "Name": "Urdnan, Dromoka Warrior",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.20",
    "Book": 7,
    "Page": 258,
@@ -18601,7 +18601,7 @@
  },
  {
    "Name": "Taeko, the Patient Avalanche",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$9.26",
    "Book": 7,
    "Page": 259,
@@ -18609,7 +18609,7 @@
  },
  {
    "Name": "Aphelia, Viper Whisperer",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$26.34",
    "Book": 7,
    "Page": 259,
@@ -18617,7 +18617,7 @@
  },
  {
    "Name": "Evereth, Viceroy of Plunder",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$10.98",
    "Book": 7,
    "Page": 259,
@@ -18649,7 +18649,7 @@
  },
  {
    "Name": "Rev, Tithe Extractor",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$36.19",
    "Book": 7,
    "Page": 260,
@@ -18681,7 +18681,7 @@
  },
  {
    "Name": "Gornog, the Red Reaper",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$2.78",
    "Book": 7,
    "Page": 260,
@@ -18697,7 +18697,7 @@
  },
  {
    "Name": "Braulios of Pheres Band",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.15",
    "Book": 7,
    "Page": 260,
@@ -18713,7 +18713,7 @@
  },
  {
    "Name": "Hurska Sweet-Tooth",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$3.38",
    "Book": 7,
    "Page": 260,
@@ -18729,7 +18729,7 @@
  },
  {
    "Name": "Slinza, the Spiked Stampede",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$1.95",
    "Book": 7,
    "Page": 261,
@@ -18745,16 +18745,16 @@
  },
  {
    "Name": "Basri, Tomorrow's Champion",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$0.48",
    "Book": 7,
    "Page": 261,
    "Slot": 4
  },
  {
    "Name": "Sundial, Dawn Tyrant",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$0.15",
    "Book": 7,
    "Page": 261,
    "Slot": 5
@@ -18762,71 +18762,71 @@
  {
    "Name": "Caelorna, Coral Tyrant",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.17",
    "Book": 7,
    "Page": 261,
    "Slot": 6
  },
  {
    "Name": "Mu Yanling, Wind Rider",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$1.11",
    "Book": 7,
    "Page": 261,
    "Slot": 7
  },
  {
    "Name": "Vnwxt, Verbose Host",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$0.46",
    "Book": 7,
    "Page": 261,
    "Slot": 8
  },
  {
    "Name": "Gonti, Night Minister",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$0.56",
    "Book": 7,
    "Page": 261,
    "Slot": 9
  },
  {
    "Name": "Kalakscion, Hunger Tyrant",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$0.17",
    "Book": 7,
    "Page": 262,
    "Slot": 1
  },
  {
    "Name": "The Speed Demon",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$5.65",
    "Book": 7,
    "Page": 262,
    "Slot": 2
  },
  {
    "Name": "Daretti, Rocketeer Engineer",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$0.28",
    "Book": 7,
    "Page": 262,
    "Slot": 3
  },
  {
    "Name": "Hazoret, Godseeker",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$3.79",
    "Book": 7,
    "Page": 262,
    "Slot": 4
  },
  {
    "Name": "Tyrox, Saurid Tyrant",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$0.16",
    "Book": 7,
    "Page": 262,
    "Slot": 5
@@ -18834,31 +18834,31 @@
  {
    "Name": "Oviya, Automech Artisan",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$1.42",
    "Book": 7,
    "Page": 262,
    "Slot": 6
  },
  {
    "Name": "Terrian, World Tyrant",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$0.20",
    "Book": 7,
    "Page": 262,
    "Slot": 7
  },
  {
    "Name": "Aatchik, Emerald Radian",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$0.26",
    "Book": 7,
    "Page": 262,
    "Slot": 8
  },
  {
    "Name": "Captain Howler, Sea Scourge",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$0.63",
    "Book": 7,
    "Page": 262,
    "Slot": 9
@@ -18866,15 +18866,15 @@
  {
    "Name": "Caradora, Heart of Alacria",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$0.26",
    "Book": 7,
    "Page": 263,
    "Slot": 1
  },
  {
    "Name": "Far Fortune, End Boss",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$0.23",
    "Book": 7,
    "Page": 263,
    "Slot": 2
@@ -18882,63 +18882,63 @@
  {
    "Name": "Ketramose, the New Dawn",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$35.18",
    "Book": 7,
    "Page": 263,
    "Slot": 3
  },
  {
    "Name": "Kolodin, Triumph Caster",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$0.49",
    "Book": 7,
    "Page": 263,
    "Slot": 4
  },
  {
    "Name": "Lagorin, Soul of Alacria",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$0.16",
    "Book": 7,
    "Page": 263,
    "Slot": 5
  },
  {
    "Name": "Loot, the Pathfinder",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$4.68",
    "Book": 7,
    "Page": 263,
    "Slot": 6
  },
  {
    "Name": "Mendicant Core, Guidelight",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$1.26",
    "Book": 7,
    "Page": 263,
    "Slot": 7
  },
  {
    "Name": "Mimeoplasm, Revered One",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$0.83",
    "Book": 7,
    "Page": 263,
    "Slot": 8
  },
  {
    "Name": "Redshift, Rocketeer Chief",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$0.26",
    "Book": 7,
    "Page": 263,
    "Slot": 9
  },
  {
    "Name": "Sab-Sunen, Luxa Embodied",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$5.29",
    "Book": 7,
    "Page": 264,
    "Slot": 1
@@ -18946,31 +18946,31 @@
  {
    "Name": "Samut, the Driving Force",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.37",
    "Book": 7,
    "Page": 264,
    "Slot": 2
  },
  {
    "Name": "Sita Varma, Masked Racer",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$0.20",
    "Book": 7,
    "Page": 264,
    "Slot": 3
  },
  {
    "Name": "Winter, Cursed Rider",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$0.21",
    "Book": 7,
    "Page": 264,
    "Slot": 4
  },
  {
    "Name": "Zahur, Glory's Past",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$0.31",
    "Book": 7,
    "Page": 264,
    "Slot": 5
@@ -18978,31 +18978,31 @@
  {
    "Name": "Hashaton, Scarab's Fist",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$7.69",
    "Book": 7,
    "Page": 264,
    "Slot": 6
  },
  {
    "Name": "Pia Nalaar, Chief Mechanic",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$0.41",
    "Book": 7,
    "Page": 264,
    "Slot": 7
  },
  {
    "Name": "Saheeli, Radiant Creator",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$0.37",
    "Book": 7,
    "Page": 264,
    "Slot": 8
  },
  {
    "Name": "Temmet, Naktamun's Will",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$0.90",
    "Book": 7,
    "Page": 264,
    "Slot": 9
@@ -19010,7 +19010,7 @@
  {
    "Name": "Nissa, Worldsoul Speaker",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$1.53",
    "Book": 7,
    "Page": 265,
    "Slot": 1
