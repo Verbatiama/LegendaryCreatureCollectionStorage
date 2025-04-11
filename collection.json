@@ -12633,7 +12633,7 @@
  },
  {
    "Name": "Urza, Lord Protector",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$9.89",
    "Book": 5,
    "Page": 176,
@@ -13065,7 +13065,7 @@
  },
  {
    "Name": "Atraxa, Grand Unifier",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$13.58",
    "Book": 5,
    "Page": 182,
@@ -13353,7 +13353,7 @@
  },
  {
    "Name": "Sheoldred // The True Scriptures",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$14.95",
    "Book": 5,
    "Page": 186,
@@ -13697,7 +13697,7 @@
  },
  {
    "Name": "Calix, Guided by Fate",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$11.62",
    "Book": 5,
    "Page": 191,
@@ -13825,7 +13825,7 @@
  },
  {
    "Name": "Karn, Legacy Reforged",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$11.18",
    "Book": 5,
    "Page": 193,
@@ -15777,7 +15777,7 @@
  },
  {
    "Name": "Indominus Rex, Alpha",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$9.10",
    "Book": 6,
    "Page": 220,
@@ -15865,7 +15865,7 @@
  },
  {
    "Name": "Ghalta, Stampede Tyrant",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$15.17",
    "Book": 6,
    "Page": 221,
@@ -16305,7 +16305,7 @@
  },
  {
    "Name": "Rakdos, Patron of Chaos",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$5.96",
    "Book": 6,
    "Page": 227,
@@ -16497,7 +16497,7 @@
  },
  {
    "Name": "Amzu, Swarm's Hunger",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$26.05",
    "Book": 6,
    "Page": 230,
@@ -16593,7 +16593,7 @@
  },
  {
    "Name": "Codsworth, Handy Helper",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$8.26",
    "Book": 6,
    "Page": 231,
@@ -17393,7 +17393,7 @@
  },
  {
    "Name": "Phelia, Exuberant Shepherd",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$4.93",
    "Book": 7,
    "Page": 242,
@@ -17521,7 +17521,7 @@
  },
  {
    "Name": "Sorin of House Markov // Sorin, Ravenous Neonate",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$3.88",
    "Book": 7,
    "Page": 244,
@@ -17905,7 +17905,7 @@
  },
  {
    "Name": "Beza, the Bounding Spring",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$8.32",
    "Book": 7,
    "Page": 249,
@@ -18201,7 +18201,7 @@
  },
  {
    "Name": "Valgavoth, Terror Eater",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$17.38",
    "Book": 7,
    "Page": 253,
@@ -18881,7 +18881,7 @@
  },
  {
    "Name": "Ketramose, the New Dawn",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$24.72",
    "Book": 7,
    "Page": 263,
@@ -18977,7 +18977,7 @@
  },
  {
    "Name": "Hashaton, Scarab's Fist",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$3.00",
    "Book": 7,
    "Page": 264,
@@ -19025,7 +19025,7 @@
  },
  {
    "Name": "Anafenza, Unyielding Lineage",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.39",
    "Book": 7,
    "Page": 265,
@@ -19033,7 +19033,7 @@
  },
  {
    "Name": "Taigam, Master Opportunist",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$3.99",
    "Book": 7,
    "Page": 265,
@@ -19041,7 +19041,7 @@
  },
  {
    "Name": "Sidisi, Regent of the Mire",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.59",
    "Book": 7,
    "Page": 265,
@@ -19057,7 +19057,7 @@
  },
  {
    "Name": "Tersa Lightshatter",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.48",
    "Book": 7,
    "Page": 265,
@@ -19065,7 +19065,7 @@
  },
  {
    "Name": "Surrak, Elusive Hunter",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.63",
    "Book": 7,
    "Page": 265,
@@ -19073,7 +19073,7 @@
  },
  {
    "Name": "Betor, Kin to All",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$9.57",
    "Book": 7,
    "Page": 265,
@@ -19081,7 +19081,7 @@
  },
  {
    "Name": "Eshki Dragonclaw",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.34",
    "Book": 7,
    "Page": 266,
@@ -19089,7 +19089,7 @@
  },
  {
    "Name": "Felothar, Dawn of the Abzan",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.49",
    "Book": 7,
    "Page": 266,
@@ -19097,7 +19097,7 @@
  },
  {
    "Name": "Kotis, the Fangkeeper",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.45",
    "Book": 7,
    "Page": 266,
@@ -19105,7 +19105,7 @@
  },
  {
    "Name": "Narset, Jeskai Waymaster",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.40",
    "Book": 7,
    "Page": 266,
@@ -19113,7 +19113,7 @@
  },
  {
    "Name": "Neriv, Heart of the Storm",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$6.74",
    "Book": 7,
    "Page": 266,
@@ -19121,7 +19121,7 @@
  },
  {
    "Name": "Shiko, Paragon of the Way",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$3.07",
    "Book": 7,
    "Page": 266,
@@ -19129,7 +19129,7 @@
  },
  {
    "Name": "Teval, Arbiter of Virtue",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$4.47",
    "Book": 7,
    "Page": 266,
@@ -19137,7 +19137,7 @@
  },
  {
    "Name": "Ureni, the Song Unending",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$5.42",
    "Book": 7,
    "Page": 266,
@@ -19145,7 +19145,7 @@
  },
  {
    "Name": "Zurgo, Thunder's Decree",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.54",
    "Book": 7,
    "Page": 266,
@@ -19153,7 +19153,7 @@
  },
  {
    "Name": "Betor, Ancestor's Voice",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$9.19",
    "Book": 7,
    "Page": 267,
@@ -19193,7 +19193,7 @@
  },
  {
    "Name": "Neriv, Crackling Vanguard",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$3.36",
    "Book": 7,
    "Page": 267,
