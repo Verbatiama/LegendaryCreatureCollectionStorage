@@ -13801,7 +13801,7 @@
  },
  {
    "Name": "Sarkhan, Soul Aflame",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$5.71",
    "Book": 5,
    "Page": 192,
@@ -14305,7 +14305,7 @@
  },
  {
    "Name": "Witch-king of Angmar",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$7.94",
    "Book": 5,
    "Page": 199,
@@ -17409,7 +17409,7 @@
  },
  {
    "Name": "Ashling, Flame Dancer",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$1.83",
    "Book": 7,
    "Page": 242,
@@ -18113,7 +18113,7 @@
  },
  {
    "Name": "Hazel of the Rootbloom",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$4.32",
    "Book": 7,
    "Page": 252,
@@ -18705,7 +18705,7 @@
  },
  {
    "Name": "Dionus, Elvish Archdruid",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$8.55",
    "Book": 7,
    "Page": 260,
