@@ -19185,7 +19185,7 @@
  },
  {
    "Name": "Kotis, Sibsig Champion",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.43",
    "Book": 7,
    "Page": 267,
@@ -19241,8 +19241,8 @@
  },
  {
    "Name": "Ultima, Origin of Oblivion",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$4.25",
    "Book": 7,
    "Page": 268,
    "Slot": 3
@@ -19250,7 +19250,7 @@
  {
    "Name": "Adelbert Steiner",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.24",
    "Book": 7,
    "Page": 268,
    "Slot": 4
@@ -19258,7 +19258,7 @@
  {
    "Name": "Aerith Gainsborough",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$1.10",
    "Book": 7,
    "Page": 268,
    "Slot": 5
@@ -19266,7 +19266,7 @@
  {
    "Name": "Ambrosia Whiteheart",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.33",
    "Book": 7,
    "Page": 268,
    "Slot": 6
@@ -19274,15 +19274,15 @@
  {
    "Name": "Ashe, Princess of Dalmasca",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.29",
    "Book": 7,
    "Page": 268,
    "Slot": 7
  },
  {
    "Name": "Cloud, Midgar Mercenary",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$17.77",
    "Book": 7,
    "Page": 268,
    "Slot": 8
@@ -19290,7 +19290,7 @@
  {
    "Name": "Dion, Bahamut's Dominant // Bahamut, Warden of Light",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.58",
    "Book": 7,
    "Page": 268,
    "Slot": 9
@@ -19298,7 +19298,7 @@
  {
    "Name": "G'raha Tia",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.51",
    "Book": 7,
    "Page": 269,
    "Slot": 1
@@ -19306,7 +19306,7 @@
  {
    "Name": "Minwu, White Mage",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.24",
    "Book": 7,
    "Page": 269,
    "Slot": 2
@@ -19314,15 +19314,15 @@
  {
    "Name": "Snow Villiers",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.62",
    "Book": 7,
    "Page": 269,
    "Slot": 3
  },
  {
    "Name": "Stiltzkin, Moogle Merchant",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$0.60",
    "Book": 7,
    "Page": 269,
    "Slot": 4
@@ -19330,7 +19330,7 @@
  {
    "Name": "Venat, Heart of Hydaelyn // Hydaelyn, the Mothercrystal",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$2.67",
    "Book": 7,
    "Page": 269,
    "Slot": 5
@@ -19338,15 +19338,15 @@
  {
    "Name": "Zack Fair",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$1.06",
    "Book": 7,
    "Page": 269,
    "Slot": 6
  },
  {
    "Name": "Edgar, King of Figaro",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$0.91",
    "Book": 7,
    "Page": 269,
    "Slot": 7
@@ -19354,7 +19354,7 @@
  {
    "Name": "Gogo, Master of Mimicry",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$19.15",
    "Book": 7,
    "Page": 269,
    "Slot": 8
@@ -19362,7 +19362,7 @@
  {
    "Name": "Jill, Shiva's Dominant // Shiva, Warden of Ice",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$0.41",
    "Book": 7,
    "Page": 269,
    "Slot": 9
@@ -19370,7 +19370,7 @@
  {
    "Name": "Matoya, Archon Elder",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$1.65",
    "Book": 7,
    "Page": 270,
    "Slot": 1
@@ -19378,7 +19378,7 @@
  {
    "Name": "Quistis Trepe",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.27",
    "Book": 7,
    "Page": 270,
    "Slot": 2
@@ -19386,31 +19386,31 @@
  {
    "Name": "Ultros, Obnoxious Octopus",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.31",
    "Book": 7,
    "Page": 270,
    "Slot": 3
  },
  {
    "Name": "Y'shtola Rhul",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$2.74",
    "Book": 7,
    "Page": 270,
    "Slot": 4
  },
  {
    "Name": "Ardyn, the Usurper",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$0.50",
    "Book": 7,
    "Page": 270,
    "Slot": 5
  },
  {
    "Name": "Cecil, Dark Knight // Cecil, Redeemed Paladin",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$2.78",
    "Book": 7,
    "Page": 270,
    "Slot": 6
@@ -19418,7 +19418,7 @@
  {
    "Name": "Fang, Fearless l'Cie",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.33",
    "Book": 7,
    "Page": 270,
    "Slot": 7
@@ -19426,15 +19426,15 @@
  {
    "Name": "Gaius van Baelsar",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.30",
    "Book": 7,
    "Page": 270,
    "Slot": 8
  },
  {
    "Name": "Jecht, Reluctant Guardian // Braska's Final Aeon",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$0.43",
    "Book": 7,
    "Page": 270,
    "Slot": 9
@@ -19442,7 +19442,7 @@
  {
    "Name": "Kain, Traitorous Dragoon",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.25",
    "Book": 7,
    "Page": 271,
    "Slot": 1
@@ -19450,7 +19450,7 @@
  {
    "Name": "Reno and Rude",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.20",
    "Book": 7,
    "Page": 271,
    "Slot": 2
@@ -19458,7 +19458,7 @@
  {
    "Name": "Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$37.29",
    "Book": 7,
    "Page": 271,
    "Slot": 3
@@ -19466,7 +19466,7 @@
  {
    "Name": "Sidequest: Hunt the Mark // Yiazmat, Ultimate Mark",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.80",
    "Book": 7,
    "Page": 271,
    "Slot": 4
@@ -19474,7 +19474,7 @@
  {
    "Name": "Vincent Valentine // Galian Beast",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$2.45",
    "Book": 7,
    "Page": 271,
    "Slot": 5
@@ -19482,15 +19482,15 @@
  {
    "Name": "Zenos yae Galvus // Shinryu, Transcendent Rival",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.99",
    "Book": 7,
    "Page": 271,
    "Slot": 6
  },
  {
    "Name": "Zodiark, Umbral God",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$0.57",
    "Book": 7,
    "Page": 271,
    "Slot": 7
@@ -19498,7 +19498,7 @@
  {
    "Name": "Barret Wallace",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.82",
    "Book": 7,
    "Page": 271,
    "Slot": 8
@@ -19506,15 +19506,15 @@
  {
    "Name": "Clive, Ifrit's Dominant // Ifrit, Warden of Inferno",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$2.03",
    "Book": 7,
    "Page": 271,
    "Slot": 9
  },
  {
    "Name": "Firion, Wild Rose Warrior",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$0.43",
    "Book": 7,
    "Page": 272,
    "Slot": 1
@@ -19522,7 +19522,7 @@
  {
    "Name": "Freya Crescent",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.29",
    "Book": 7,
    "Page": 272,
    "Slot": 2
@@ -19530,7 +19530,7 @@
  {
    "Name": "Gilgamesh, Master-at-Arms",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.28",
    "Book": 7,
    "Page": 272,
    "Slot": 3
@@ -19538,7 +19538,7 @@
  {
    "Name": "Prompto Argentum",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.71",
    "Book": 7,
    "Page": 272,
    "Slot": 4
@@ -19546,7 +19546,7 @@
  {
    "Name": "Queen Brahne",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.31",
    "Book": 7,
    "Page": 272,
    "Slot": 5
@@ -19554,7 +19554,7 @@
  {
    "Name": "Raubahn, Bull of Ala Mhigo",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.33",
    "Book": 7,
    "Page": 272,
    "Slot": 6
@@ -19562,15 +19562,15 @@
  {
    "Name": "Seifer Almasy",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$4.76",
    "Book": 7,
    "Page": 272,
    "Slot": 7
  },
  {
    "Name": "Vaan, Street Thief",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$1.48",
    "Book": 7,
    "Page": 272,
    "Slot": 8
@@ -19578,7 +19578,7 @@
  {
    "Name": "Zell Dincht",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.47",
    "Book": 7,
    "Page": 272,
    "Slot": 9
@@ -19586,7 +19586,7 @@
  {
    "Name": "Bartz and Boko",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.44",
    "Book": 7,
    "Page": 273,
    "Slot": 1
@@ -19594,7 +19594,7 @@
  {
    "Name": "Diamond Weapon",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.92",
    "Book": 7,
    "Page": 273,
    "Slot": 2
@@ -19602,7 +19602,7 @@
  {
    "Name": "Quina, Qu Gourmet",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.26",
    "Book": 7,
    "Page": 273,
    "Slot": 3
@@ -19610,15 +19610,15 @@
  {
    "Name": "Sazh Katzroy",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$0.31",
    "Book": 7,
    "Page": 273,
    "Slot": 4
  },
  {
    "Name": "Tifa Lockhart",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$3.52",
    "Book": 7,
    "Page": 273,
    "Slot": 5
@@ -19626,7 +19626,7 @@
  {
    "Name": "Torgal, A Fine Hound",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.41",
    "Book": 7,
    "Page": 273,
    "Slot": 6
@@ -19634,7 +19634,7 @@
  {
    "Name": "Vanille, Cheerful l'Cie",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.28",
    "Book": 7,
    "Page": 273,
    "Slot": 7
@@ -19642,7 +19642,7 @@
  {
    "Name": "Absolute Virtue",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$3.35",
    "Book": 7,
    "Page": 273,
    "Slot": 8
@@ -19650,7 +19650,7 @@
  {
    "Name": "Balthier and Fran",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.25",
    "Book": 7,
    "Page": 273,
    "Slot": 9
@@ -19658,7 +19658,7 @@
  {
    "Name": "Black Waltz No. 3",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.31",
    "Book": 7,
    "Page": 274,
    "Slot": 1
@@ -19666,7 +19666,7 @@
  {
    "Name": "Choco, Seeker of Paradise",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$1.42",
    "Book": 7,
    "Page": 274,
    "Slot": 2
@@ -19674,7 +19674,7 @@
  {
    "Name": "Cid, Timeless Artificer",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$3.50",
    "Book": 7,
    "Page": 274,
    "Slot": 3
@@ -19682,7 +19682,7 @@
  {
    "Name": "Cloud of Darkness",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.57",
    "Book": 7,
    "Page": 274,
    "Slot": 4
@@ -19690,7 +19690,7 @@
  {
    "Name": "Emet-Selch, Unsundered // Hades, Sorcerer of Eld",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$7.87",
    "Book": 7,
    "Page": 274,
    "Slot": 5
@@ -19698,7 +19698,7 @@
  {
    "Name": "The Emperor of Palamecia // The Lord Master of Hell",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.28",
    "Book": 7,
    "Page": 274,
    "Slot": 6
@@ -19706,7 +19706,7 @@
  {
    "Name": "Exdeath, Void Warlock // Neo Exdeath, Dimension's End",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.83",
    "Book": 7,
    "Page": 274,
    "Slot": 7
@@ -19714,7 +19714,7 @@
  {
    "Name": "Garland, Knight of Cornelia // Chaos, the Endless",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.31",
    "Book": 7,
    "Page": 274,
    "Slot": 8
@@ -19722,7 +19722,7 @@
  {
    "Name": "Garnet, Princess of Alexandria",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.26",
    "Book": 7,
    "Page": 274,
    "Slot": 9
@@ -19730,7 +19730,7 @@
  {
    "Name": "Giott, King of the Dwarves",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.65",
    "Book": 7,
    "Page": 275,
    "Slot": 1
@@ -19738,7 +19738,7 @@
  {
    "Name": "Gladiolus Amicitia",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.25",
    "Book": 7,
    "Page": 275,
    "Slot": 2
@@ -19746,7 +19746,7 @@
  {
    "Name": "Golbez, Crystal Collector",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.82",
    "Book": 7,
    "Page": 275,
    "Slot": 3
@@ -19754,7 +19754,7 @@
  {
    "Name": "Hope Estheim",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.26",
    "Book": 7,
    "Page": 275,
    "Slot": 4
@@ -19762,7 +19762,7 @@
  {
    "Name": "Ignis Scientia",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.93",
    "Book": 7,
    "Page": 275,
    "Slot": 5
@@ -19770,7 +19770,7 @@
  {
    "Name": "Jenova, Ancient Calamity",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$1.74",
    "Book": 7,
    "Page": 275,
    "Slot": 6
@@ -19778,7 +19778,7 @@
  {
    "Name": "Joshua, Phoenix's Dominant // Phoenix, Warden of Fire",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$1.79",
    "Book": 7,
    "Page": 275,
    "Slot": 7
@@ -19786,7 +19786,7 @@
  {
    "Name": "Judge Magister Gabranth",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.26",
    "Book": 7,
    "Page": 275,
    "Slot": 8
@@ -19794,7 +19794,7 @@
  {
    "Name": "Kefka, Court Mage // Kefka, Ruler of Ruin",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$5.32",
    "Book": 7,
    "Page": 275,
    "Slot": 9
@@ -19802,7 +19802,7 @@
  {
    "Name": "Kuja, Genome Sorcerer // Trance Kuja, Fate Defied",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.48",
    "Book": 7,
    "Page": 276,
    "Slot": 1
@@ -19810,7 +19810,7 @@
  {
    "Name": "Lightning, Army of One",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$8.71",
    "Book": 7,
    "Page": 276,
    "Slot": 2
@@ -19818,7 +19818,7 @@
  {
    "Name": "Locke Cole",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.38",
    "Book": 7,
    "Page": 276,
    "Slot": 3
@@ -19826,7 +19826,7 @@
  {
    "Name": "Noctis, Prince of Lucis",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.75",
    "Book": 7,
    "Page": 276,
    "Slot": 4
@@ -19834,7 +19834,7 @@
  {
    "Name": "Omega, Heartless Evolution",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.45",
    "Book": 7,
    "Page": 276,
    "Slot": 5
@@ -19842,7 +19842,7 @@
  {
    "Name": "Rinoa Heartilly",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.29",
    "Book": 7,
    "Page": 276,
    "Slot": 6
@@ -19850,7 +19850,7 @@
  {
    "Name": "Rufus Shinra",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.42",
    "Book": 7,
    "Page": 276,
    "Slot": 7
@@ -19858,7 +19858,7 @@
  {
    "Name": "Rydia, Summoner of Mist",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.27",
    "Book": 7,
    "Page": 276,
    "Slot": 8
@@ -19866,7 +19866,7 @@
  {
    "Name": "Serah Farron // Crystallized Serah",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$0.39",
    "Book": 7,
    "Page": 276,
    "Slot": 9
@@ -19874,7 +19874,7 @@
  {
    "Name": "Shantotto, Tactician Magician",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.26",
    "Book": 7,
    "Page": 277,
    "Slot": 1
@@ -19882,15 +19882,15 @@
  {
    "Name": "Sin, Spira's Punishment",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.65",
    "Book": 7,
    "Page": 277,
    "Slot": 2
  },
  {
    "Name": "Tellah, Great Sage",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$0.28",
    "Book": 7,
    "Page": 277,
    "Slot": 3
@@ -19898,7 +19898,7 @@
  {
    "Name": "Terra, Magical Adept // Esper Terra",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$5.44",
    "Book": 7,
    "Page": 277,
    "Slot": 4
@@ -19906,7 +19906,7 @@
  {
    "Name": "Tidus, Blitzball Star",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.32",
    "Book": 7,
    "Page": 277,
    "Slot": 5
@@ -19914,7 +19914,7 @@
  {
    "Name": "Ultimecia, Time Sorceress // Ultimecia, Omnipotent",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.35",
    "Book": 7,
    "Page": 277,
    "Slot": 6
@@ -19922,15 +19922,15 @@
  {
    "Name": "Vivi Ornitier",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$51.01",
    "Book": 7,
    "Page": 277,
    "Slot": 7
  },
  {
    "Name": "The Wandering Minstrel",
-   "Owned": 0,
-   "Price": "$0.00",
+   "Owned": 1,
+   "Price": "$3.89",
    "Book": 7,
    "Page": 277,
    "Slot": 8
@@ -19938,7 +19938,7 @@
  {
    "Name": "Yuna, Hope of Spira",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$3.15",
    "Book": 7,
    "Page": 277,
    "Slot": 9
@@ -19946,7 +19946,7 @@
  {
    "Name": "Zidane, Tantalus Thief",
    "Owned": 1,
-   "Price": "$0.00",
+   "Price": "$0.32",
    "Book": 7,
    "Page": 278,
    "Slot": 1
@@ -19954,7 +19954,7 @@
  {
    "Name": "Beatrix, Loyal General",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$14.75",
    "Book": 7,
    "Page": 278,
    "Slot": 2
@@ -19962,7 +19962,7 @@
  {
    "Name": "Rosa, Resolute White Mage",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$5.48",
    "Book": 7,
    "Page": 278,
    "Slot": 3
@@ -19970,7 +19970,7 @@
  {
    "Name": "Ultimecia, Temporal Threat",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$12.78",
    "Book": 7,
    "Page": 278,
    "Slot": 4
@@ -19978,7 +19978,7 @@
  {
    "Name": "Seymour Flux",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$8.53",
    "Book": 7,
    "Page": 278,
    "Slot": 5
@@ -19986,7 +19986,7 @@
  {
    "Name": "Lightning, Security Sergeant",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$14.95",
    "Book": 7,
    "Page": 278,
    "Slot": 6
@@ -19994,7 +19994,7 @@
  {
    "Name": "Cloud, Planet's Champion",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$58.75",
    "Book": 7,
    "Page": 278,
    "Slot": 7
@@ -20002,7 +20002,7 @@
  {
    "Name": "Sephiroth, Planet's Heir",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$28.75",
    "Book": 7,
    "Page": 278,
    "Slot": 8
@@ -20010,7 +20010,7 @@
  {
    "Name": "Xande, Dark Mage",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$2.68",
    "Book": 7,
    "Page": 278,
    "Slot": 9
@@ -20018,7 +20018,7 @@
  {
    "Name": "Celes, Rune Knight",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$6.28",
    "Book": 7,
    "Page": 279,
    "Slot": 1
@@ -20026,7 +20026,7 @@
  {
    "Name": "Cloud, Ex-SOLDIER",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$10.41",
    "Book": 7,
    "Page": 279,
    "Slot": 2
@@ -20034,7 +20034,7 @@
  {
    "Name": "G'raha Tia, Scion Reborn",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$27.94",
    "Book": 7,
    "Page": 279,
    "Slot": 3
@@ -20042,7 +20042,7 @@
  {
    "Name": "Terra, Herald of Hope",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$27.94",
    "Book": 7,
    "Page": 279,
    "Slot": 4
@@ -20050,7 +20050,7 @@
  {
    "Name": "Tidus, Yuna's Guardian",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$22.90",
    "Book": 7,
    "Page": 279,
    "Slot": 5
@@ -20058,7 +20058,7 @@
  {
    "Name": "Tifa, Martial Artist",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$38.00",
    "Book": 7,
    "Page": 279,
    "Slot": 6
@@ -20066,7 +20066,7 @@
  {
    "Name": "Y'shtola, Night's Blessed",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$7.51",
    "Book": 7,
    "Page": 279,
    "Slot": 7
@@ -20074,7 +20074,7 @@
  {
    "Name": "Yuna, Grand Summoner",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$40.53",
    "Book": 7,
    "Page": 279,
    "Slot": 8
@@ -20082,7 +20082,7 @@
  {
    "Name": "Alisaie Leveilleur",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$5.03",
    "Book": 7,
    "Page": 279,
    "Slot": 9
@@ -20090,7 +20090,7 @@
  {
    "Name": "Auron, Venerated Guardian",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$7.16",
    "Book": 7,
    "Page": 280,
    "Slot": 1
@@ -20098,7 +20098,7 @@
  {
    "Name": "Cid, Freeflier Pilot",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$3.08",
    "Book": 7,
    "Page": 280,
    "Slot": 2
@@ -20106,7 +20106,7 @@
  {
    "Name": "Cyan, Vengeful Samurai",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$2.39",
    "Book": 7,
    "Page": 280,
    "Slot": 3
@@ -20114,7 +20114,7 @@
  {
    "Name": "Elena, Turk Recruit",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$3.15",
    "Book": 7,
    "Page": 280,
    "Slot": 4
@@ -20122,7 +20122,7 @@
  {
    "Name": "Gatta and Luzzu",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$5.45",
    "Book": 7,
    "Page": 280,
    "Slot": 5
@@ -20130,7 +20130,7 @@
  {
    "Name": "General Leo Cristophe",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$2.87",
    "Book": 7,
    "Page": 280,
    "Slot": 6
@@ -20138,7 +20138,7 @@
  {
    "Name": "Heidegger, Shinra Executive",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$1.00",
    "Book": 7,
    "Page": 280,
    "Slot": 7
@@ -20146,7 +20146,7 @@
  {
    "Name": "Lord Jyscal Guado",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$2.20",
    "Book": 7,
    "Page": 280,
    "Slot": 8
@@ -20154,7 +20154,7 @@
  {
    "Name": "Tataru Taru",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$9.90",
    "Book": 7,
    "Page": 280,
    "Slot": 9
@@ -20162,7 +20162,7 @@
  {
    "Name": "Thancred Waters",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$5.04",
    "Book": 8,
    "Page": 281,
    "Slot": 1
@@ -20170,7 +20170,7 @@
  {
    "Name": "Alphinaud Leveilleur",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$7.23",
    "Book": 8,
    "Page": 281,
    "Slot": 2
@@ -20178,7 +20178,7 @@
  {
    "Name": "Hermes, Overseer of Elpis",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$5.69",
    "Book": 8,
    "Page": 281,
    "Slot": 3
@@ -20186,7 +20186,7 @@
  {
    "Name": "Hraesvelgr of the First Brood",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$6.45",
    "Book": 8,
    "Page": 281,
    "Slot": 4
@@ -20194,7 +20194,7 @@
  {
    "Name": "Lulu, Stern Guardian",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$3.14",
    "Book": 8,
    "Page": 281,
    "Slot": 5
@@ -20202,7 +20202,7 @@
  {
    "Name": "O'aka, Traveling Merchant",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$4.35",
    "Book": 8,
    "Page": 281,
    "Slot": 6
@@ -20210,7 +20210,7 @@
  {
    "Name": "Rikku, Resourceful Guardian",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$3.07",
    "Book": 8,
    "Page": 281,
    "Slot": 7
@@ -20218,7 +20218,7 @@
  {
    "Name": "Fandaniel, Telophoroi Ascian",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$2.30",
    "Book": 8,
    "Page": 281,
    "Slot": 8
@@ -20226,7 +20226,7 @@
  {
    "Name": "Interceptor, Shadow's Hound",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$4.56",
    "Book": 8,
    "Page": 281,
    "Slot": 9
@@ -20234,7 +20234,7 @@
  {
    "Name": "Shadow, Mysterious Assassin",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$5.22",
    "Book": 8,
    "Page": 282,
    "Slot": 1
@@ -20242,7 +20242,7 @@
  {
    "Name": "Siegfried, Famed Swordsman",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$0.71",
    "Book": 8,
    "Page": 282,
    "Slot": 2
@@ -20250,7 +20250,7 @@
  {
    "Name": "Avalanche of Sector 7",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$4.03",
    "Book": 8,
    "Page": 282,
    "Slot": 3
@@ -20258,7 +20258,7 @@
  {
    "Name": "Cait Sith, Fortune Teller",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$3.47",
    "Book": 8,
    "Page": 282,
    "Slot": 4
@@ -20266,7 +20266,7 @@
  {
    "Name": "Gau, Feral Youth",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$2.86",
    "Book": 8,
    "Page": 282,
    "Slot": 5
@@ -20274,7 +20274,7 @@
  {
    "Name": "Gogo, Mysterious Mime",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$1.58",
    "Book": 8,
    "Page": 282,
    "Slot": 6
@@ -20282,7 +20282,7 @@
  {
    "Name": "Sabin, Master Monk",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$3.21",
    "Book": 8,
    "Page": 282,
    "Slot": 7
@@ -20290,7 +20290,7 @@
  {
    "Name": "Strago and Relm",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$8.37",
    "Book": 8,
    "Page": 282,
    "Slot": 8
@@ -20298,7 +20298,7 @@
  {
    "Name": "Umaro, Raging Yeti",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$1.96",
    "Book": 8,
    "Page": 282,
    "Slot": 9
@@ -20306,7 +20306,7 @@
  {
    "Name": "Vincent, Vengeful Atoner",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$2.02",
    "Book": 8,
    "Page": 283,
    "Slot": 1
@@ -20314,7 +20314,7 @@
  {
    "Name": "Yuffie, Materia Hunter",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$7.43",
    "Book": 8,
    "Page": 283,
    "Slot": 2
@@ -20322,7 +20322,7 @@
  {
    "Name": "Bugenhagen, Wise Elder",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$2.22",
    "Book": 8,
    "Page": 283,
    "Slot": 3
@@ -20330,7 +20330,7 @@
  {
    "Name": "Maester Seymour",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$4.70",
    "Book": 8,
    "Page": 283,
    "Slot": 4
@@ -20338,7 +20338,7 @@
  {
    "Name": "Professor Hojo",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$3.42",
    "Book": 8,
    "Page": 283,
    "Slot": 5
@@ -20346,7 +20346,7 @@
  {
    "Name": "Tromell, Seymour's Butler",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$2.89",
    "Book": 8,
    "Page": 283,
    "Slot": 6
@@ -20354,7 +20354,7 @@
  {
    "Name": "Aerith, Last Ancient",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$6.68",
    "Book": 8,
    "Page": 283,
    "Slot": 7
@@ -20362,7 +20362,7 @@
  {
    "Name": "Ardbert, Warrior of Darkness",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$2.71",
    "Book": 8,
    "Page": 283,
    "Slot": 8
@@ -20370,7 +20370,7 @@
  {
    "Name": "Banon, the Returners' Leader",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$1.19",
    "Book": 8,
    "Page": 283,
    "Slot": 9
@@ -20378,7 +20378,7 @@
  {
    "Name": "Barret, Avalanche Leader",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$5.30",
    "Book": 8,
    "Page": 284,
    "Slot": 1
@@ -20386,7 +20386,7 @@
  {
    "Name": "Edgar, Master Machinist",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$4.23",
    "Book": 8,
    "Page": 284,
    "Slot": 2
@@ -20394,7 +20394,7 @@
  {
    "Name": "Emet-Selch of the Third Seat",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$17.45",
    "Book": 8,
    "Page": 284,
    "Slot": 3
@@ -20402,7 +20402,7 @@
  {
    "Name": "Estinien Varlineau",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$11.58",
    "Book": 8,
    "Page": 284,
    "Slot": 4
@@ -20410,7 +20410,7 @@
  {
    "Name": "Hildibrand Manderville // Gentleman's Rise",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$19.08",
    "Book": 8,
    "Page": 284,
    "Slot": 5
@@ -20418,7 +20418,7 @@
  {
    "Name": "Kefka, Dancing Mad",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$5.16",
    "Book": 8,
    "Page": 284,
    "Slot": 6
@@ -20426,7 +20426,7 @@
  {
    "Name": "Kimahri, Valiant Guardian",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$5.62",
    "Book": 8,
    "Page": 284,
    "Slot": 7
@@ -20434,7 +20434,7 @@
  {
    "Name": "Krile Baldesion",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$6.77",
    "Book": 8,
    "Page": 284,
    "Slot": 8
@@ -20442,7 +20442,7 @@
  {
    "Name": "Locke, Treasure Hunter",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$3.55",
    "Book": 8,
    "Page": 284,
    "Slot": 9
@@ -20450,7 +20450,7 @@
  {
    "Name": "Lyse Hext",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$5.52",
    "Book": 8,
    "Page": 285,
    "Slot": 1
@@ -20458,7 +20458,7 @@
  {
    "Name": "Mog, Moogle Warrior",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$7.52",
    "Book": 8,
    "Page": 285,
    "Slot": 2
@@ -20466,7 +20466,7 @@
  {
    "Name": "Papalymo Totolymo",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$2.97",
    "Book": 8,
    "Page": 285,
    "Slot": 3
@@ -20474,7 +20474,7 @@
  {
    "Name": "Red XIII, Proud Warrior",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$9.72",
    "Book": 8,
    "Page": 285,
    "Slot": 4
@@ -20482,7 +20482,7 @@
  {
    "Name": "Sephiroth, Fallen Hero",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$5.07",
    "Book": 8,
    "Page": 285,
    "Slot": 5
@@ -20490,7 +20490,7 @@
  {
    "Name": "Setzer, Wandering Gambler",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$6.47",
    "Book": 8,
    "Page": 285,
    "Slot": 6
@@ -20498,7 +20498,7 @@
  {
    "Name": "Shelinda, Yevon Acolyte",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$6.89",
    "Book": 8,
    "Page": 285,
    "Slot": 7
@@ -20506,7 +20506,7 @@
  {
    "Name": "Sin, Unending Cataclysm",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$5.33",
    "Book": 8,
    "Page": 285,
    "Slot": 8
@@ -20514,7 +20514,7 @@
  {
    "Name": "Urianger Augurelt",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$3.80",
    "Book": 8,
    "Page": 285,
    "Slot": 9
@@ -20522,7 +20522,7 @@
  {
    "Name": "Wakka, Devoted Guardian",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$7.46",
    "Book": 8,
    "Page": 286,
    "Slot": 1
@@ -20530,7 +20530,7 @@
  {
    "Name": "The Warring Triad",
    "Owned": 0,
-   "Price": "$0.00",
+   "Price": "$5.54",
    "Book": 8,
    "Page": 286,
    "Slot": 2
