@@ -12937,7 +12937,7 @@
  },
  {
    "Name": "Runadi, Behemoth Caller",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$3.03",
    "Book": 5,
    "Page": 180,
@@ -13977,7 +13977,7 @@
  },
  {
    "Name": "Arwen, Weaver of Hope",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$2.83",
    "Book": 5,
    "Page": 195,
@@ -14985,7 +14985,7 @@
  },
  {
    "Name": "Talion, the Kindly Lord",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$3.66",
    "Book": 6,
    "Page": 209,
@@ -16065,7 +16065,7 @@
  },
  {
    "Name": "Pantlaza, Sun-Favored",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.99",
    "Book": 6,
    "Page": 224,
@@ -17737,7 +17737,7 @@
  },
  {
    "Name": "Basim Ibn Ishaq",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$2.86",
    "Book": 7,
    "Page": 247,
@@ -19161,7 +19161,7 @@
  },
  {
    "Name": "Elsha, Threefold Master",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$2.08",
    "Book": 7,
    "Page": 267,
@@ -19169,7 +19169,7 @@
  },
  {
    "Name": "Eshki, Temur's Roar",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$3.80",
    "Book": 7,
    "Page": 267,
@@ -19177,7 +19177,7 @@
  },
  {
    "Name": "Felothar the Steadfast",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$2.08",
    "Book": 7,
    "Page": 267,
@@ -19201,7 +19201,7 @@
  },
  {
    "Name": "Shiko and Narset, Unified",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$1.40",
    "Book": 7,
    "Page": 267,
@@ -19361,7 +19361,7 @@
  },
  {
    "Name": "Jill, Shiva's Dominant // Shiva, Warden of Ice",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.41",
    "Book": 7,
    "Page": 269,
@@ -19369,7 +19369,7 @@
  },
  {
    "Name": "Matoya, Archon Elder",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$1.65",
    "Book": 7,
    "Page": 270,
@@ -19609,7 +19609,7 @@
  },
  {
    "Name": "Sazh Katzroy",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.31",
    "Book": 7,
    "Page": 273,
@@ -19865,7 +19865,7 @@
  },
  {
    "Name": "Serah Farron // Crystallized Serah",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.39",
    "Book": 7,
    "Page": 276,
@@ -19969,7 +19969,7 @@
  },
  {
    "Name": "Ultimecia, Temporal Threat",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$12.78",
    "Book": 7,
    "Page": 278,
@@ -19977,7 +19977,7 @@
  },
  {
    "Name": "Seymour Flux",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$8.53",
    "Book": 7,
    "Page": 278,
@@ -19985,7 +19985,7 @@
  },
  {
    "Name": "Lightning, Security Sergeant",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$14.95",
    "Book": 7,
    "Page": 278,
@@ -20001,7 +20001,7 @@
  },
  {
    "Name": "Sephiroth, Planet's Heir",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$28.75",
    "Book": 7,
    "Page": 278,
@@ -20009,7 +20009,7 @@
  },
  {
    "Name": "Xande, Dark Mage",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$2.68",
    "Book": 7,
    "Page": 278,
@@ -20017,7 +20017,7 @@
  },
  {
    "Name": "Celes, Rune Knight",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$6.28",
    "Book": 7,
    "Page": 279,
@@ -20025,7 +20025,7 @@
  },
  {
    "Name": "Cloud, Ex-SOLDIER",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$10.41",
    "Book": 7,
    "Page": 279,
@@ -20033,7 +20033,7 @@
  },
  {
    "Name": "G'raha Tia, Scion Reborn",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$27.94",
    "Book": 7,
    "Page": 279,
@@ -20041,7 +20041,7 @@
  },
  {
    "Name": "Terra, Herald of Hope",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$27.94",
    "Book": 7,
    "Page": 279,
@@ -20049,7 +20049,7 @@
  },
  {
    "Name": "Tidus, Yuna's Guardian",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$22.90",
    "Book": 7,
    "Page": 279,
@@ -20057,7 +20057,7 @@
  },
  {
    "Name": "Tifa, Martial Artist",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$38.00",
    "Book": 7,
    "Page": 279,
@@ -20065,7 +20065,7 @@
  },
  {
    "Name": "Y'shtola, Night's Blessed",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$7.51",
    "Book": 7,
    "Page": 279,
@@ -20073,7 +20073,7 @@
  },
  {
    "Name": "Yuna, Grand Summoner",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$40.53",
    "Book": 7,
    "Page": 279,
@@ -20081,7 +20081,7 @@
  },
  {
    "Name": "Alisaie Leveilleur",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$5.03",
    "Book": 7,
    "Page": 279,
@@ -20089,7 +20089,7 @@
  },
  {
    "Name": "Auron, Venerated Guardian",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$7.16",
    "Book": 7,
    "Page": 280,
@@ -20097,7 +20097,7 @@
  },
  {
    "Name": "Cid, Freeflier Pilot",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$3.08",
    "Book": 7,
    "Page": 280,
@@ -20105,7 +20105,7 @@
  },
  {
    "Name": "Cyan, Vengeful Samurai",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$2.39",
    "Book": 7,
    "Page": 280,
@@ -20113,7 +20113,7 @@
  },
  {
    "Name": "Elena, Turk Recruit",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$3.15",
    "Book": 7,
    "Page": 280,
@@ -20121,7 +20121,7 @@
  },
  {
    "Name": "Gatta and Luzzu",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$5.45",
    "Book": 7,
    "Page": 280,
@@ -20129,7 +20129,7 @@
  },
  {
    "Name": "General Leo Cristophe",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$2.87",
    "Book": 7,
    "Page": 280,
@@ -20137,7 +20137,7 @@
  },
  {
    "Name": "Heidegger, Shinra Executive",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$1.00",
    "Book": 7,
    "Page": 280,
@@ -20145,7 +20145,7 @@
  },
  {
    "Name": "Lord Jyscal Guado",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$2.20",
    "Book": 7,
    "Page": 280,
@@ -20153,7 +20153,7 @@
  },
  {
    "Name": "Tataru Taru",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$9.90",
    "Book": 7,
    "Page": 280,
@@ -20161,7 +20161,7 @@
  },
  {
    "Name": "Thancred Waters",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$5.04",
    "Book": 8,
    "Page": 281,
@@ -20169,7 +20169,7 @@
  },
  {
    "Name": "Alphinaud Leveilleur",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$7.23",
    "Book": 8,
    "Page": 281,
@@ -20185,7 +20185,7 @@
  },
  {
    "Name": "Hraesvelgr of the First Brood",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$6.45",
    "Book": 8,
    "Page": 281,
@@ -20193,7 +20193,7 @@
  },
  {
    "Name": "Lulu, Stern Guardian",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$3.14",
    "Book": 8,
    "Page": 281,
@@ -20201,7 +20201,7 @@
  },
  {
    "Name": "O'aka, Traveling Merchant",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$4.35",
    "Book": 8,
    "Page": 281,
@@ -20209,7 +20209,7 @@
  },
  {
    "Name": "Rikku, Resourceful Guardian",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$3.07",
    "Book": 8,
    "Page": 281,
@@ -20217,7 +20217,7 @@
  },
  {
    "Name": "Fandaniel, Telophoroi Ascian",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$2.30",
    "Book": 8,
    "Page": 281,
@@ -20225,7 +20225,7 @@
  },
  {
    "Name": "Interceptor, Shadow's Hound",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$4.56",
    "Book": 8,
    "Page": 281,
@@ -20233,7 +20233,7 @@
  },
  {
    "Name": "Shadow, Mysterious Assassin",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$5.22",
    "Book": 8,
    "Page": 282,
@@ -20241,7 +20241,7 @@
  },
  {
    "Name": "Siegfried, Famed Swordsman",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.71",
    "Book": 8,
    "Page": 282,
@@ -20249,7 +20249,7 @@
  },
  {
    "Name": "Avalanche of Sector 7",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$4.03",
    "Book": 8,
    "Page": 282,
@@ -20257,7 +20257,7 @@
  },
  {
    "Name": "Cait Sith, Fortune Teller",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$3.47",
    "Book": 8,
    "Page": 282,
@@ -20265,7 +20265,7 @@
  },
  {
    "Name": "Gau, Feral Youth",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$2.86",
    "Book": 8,
    "Page": 282,
@@ -20281,7 +20281,7 @@
  },
  {
    "Name": "Sabin, Master Monk",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$3.21",
    "Book": 8,
    "Page": 282,
@@ -20289,7 +20289,7 @@
  },
  {
    "Name": "Strago and Relm",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$8.37",
    "Book": 8,
    "Page": 282,
@@ -20297,7 +20297,7 @@
  },
  {
    "Name": "Umaro, Raging Yeti",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$1.96",
    "Book": 8,
    "Page": 282,
@@ -20305,7 +20305,7 @@
  },
  {
    "Name": "Vincent, Vengeful Atoner",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$2.02",
    "Book": 8,
    "Page": 283,
@@ -20313,7 +20313,7 @@
  },
  {
    "Name": "Yuffie, Materia Hunter",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$7.43",
    "Book": 8,
    "Page": 283,
@@ -20329,7 +20329,7 @@
  },
  {
    "Name": "Maester Seymour",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$4.70",
    "Book": 8,
    "Page": 283,
@@ -20337,7 +20337,7 @@
  },
  {
    "Name": "Professor Hojo",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$3.42",
    "Book": 8,
    "Page": 283,
@@ -20353,7 +20353,7 @@
  },
  {
    "Name": "Aerith, Last Ancient",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$6.68",
    "Book": 8,
    "Page": 283,
@@ -20361,7 +20361,7 @@
  },
  {
    "Name": "Ardbert, Warrior of Darkness",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$2.71",
    "Book": 8,
    "Page": 283,
@@ -20369,7 +20369,7 @@
  },
  {
    "Name": "Banon, the Returners' Leader",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$1.19",
    "Book": 8,
    "Page": 283,
@@ -20377,7 +20377,7 @@
  },
  {
    "Name": "Barret, Avalanche Leader",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$5.30",
    "Book": 8,
    "Page": 284,
@@ -20385,7 +20385,7 @@
  },
  {
    "Name": "Edgar, Master Machinist",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$4.23",
    "Book": 8,
    "Page": 284,
@@ -20393,7 +20393,7 @@
  },
  {
    "Name": "Emet-Selch of the Third Seat",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$17.45",
    "Book": 8,
    "Page": 284,
@@ -20401,7 +20401,7 @@
  },
  {
    "Name": "Estinien Varlineau",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$11.58",
    "Book": 8,
    "Page": 284,
@@ -20409,7 +20409,7 @@
  },
  {
    "Name": "Hildibrand Manderville // Gentleman's Rise",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$19.08",
    "Book": 8,
    "Page": 284,
@@ -20425,7 +20425,7 @@
  },
  {
    "Name": "Kimahri, Valiant Guardian",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$5.62",
    "Book": 8,
    "Page": 284,
@@ -20433,7 +20433,7 @@
  },
  {
    "Name": "Krile Baldesion",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$6.77",
    "Book": 8,
    "Page": 284,
@@ -20441,7 +20441,7 @@
  },
  {
    "Name": "Locke, Treasure Hunter",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$3.55",
    "Book": 8,
    "Page": 284,
@@ -20449,7 +20449,7 @@
  },
  {
    "Name": "Lyse Hext",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$5.52",
    "Book": 8,
    "Page": 285,
@@ -20457,7 +20457,7 @@
  },
  {
    "Name": "Mog, Moogle Warrior",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$7.52",
    "Book": 8,
    "Page": 285,
@@ -20465,7 +20465,7 @@
  },
  {
    "Name": "Papalymo Totolymo",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$2.97",
    "Book": 8,
    "Page": 285,
@@ -20473,7 +20473,7 @@
  },
  {
    "Name": "Red XIII, Proud Warrior",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$9.72",
    "Book": 8,
    "Page": 285,
@@ -20481,7 +20481,7 @@
  },
  {
    "Name": "Sephiroth, Fallen Hero",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$5.07",
    "Book": 8,
    "Page": 285,
@@ -20489,7 +20489,7 @@
  },
  {
    "Name": "Setzer, Wandering Gambler",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$6.47",
    "Book": 8,
    "Page": 285,
@@ -20497,7 +20497,7 @@
  },
  {
    "Name": "Shelinda, Yevon Acolyte",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$6.89",
    "Book": 8,
    "Page": 285,
@@ -20505,7 +20505,7 @@
  },
  {
    "Name": "Sin, Unending Cataclysm",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$5.33",
    "Book": 8,
    "Page": 285,
@@ -20513,7 +20513,7 @@
  },
  {
    "Name": "Urianger Augurelt",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$3.80",
    "Book": 8,
    "Page": 285,
@@ -20521,7 +20521,7 @@
  },
  {
    "Name": "Wakka, Devoted Guardian",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$7.46",
    "Book": 8,
    "Page": 286,
@@ -20529,7 +20529,7 @@
  },
  {
    "Name": "The Warring Triad",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$5.54",
    "Book": 8,
    "Page": 286,
