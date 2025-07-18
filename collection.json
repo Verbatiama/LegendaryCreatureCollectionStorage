@@ -1057,7 +1057,7 @@
  },
  {
    "Name": "Ma Chao, Western Warrior",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$67.05",
    "Book": 1,
    "Page": 15,
@@ -17657,7 +17657,7 @@
  },
  {
    "Name": "Ezio Auditore da Firenze",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$4.94",
    "Book": 7,
    "Page": 246,
@@ -19937,7 +19937,7 @@
  },
  {
    "Name": "Yuna, Hope of Spira",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$3.15",
    "Book": 7,
    "Page": 277,
@@ -20417,7 +20417,7 @@
  },
  {
    "Name": "Kefka, Dancing Mad",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$5.16",
    "Book": 8,
    "Page": 284,
