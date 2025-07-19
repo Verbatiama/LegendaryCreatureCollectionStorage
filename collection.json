@@ -14777,7 +14777,7 @@
  },
  {
    "Name": "Witch-king, Bringer of Ruin",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$5.49",
    "Book": 6,
    "Page": 206,
@@ -16513,7 +16513,7 @@
  },
  {
    "Name": "Lonis, Genetics Expert",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$4.16",
    "Book": 6,
    "Page": 230,
@@ -18625,7 +18625,7 @@
  },
  {
    "Name": "Fumulus, the Infestation",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$4.49",
    "Book": 7,
    "Page": 259,
@@ -19793,7 +19793,7 @@
  },
  {
    "Name": "Kefka, Court Mage // Kefka, Ruler of Ruin",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$5.32",
    "Book": 7,
    "Page": 275,
@@ -20177,7 +20177,7 @@
  },
  {
    "Name": "Hermes, Overseer of Elpis",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$5.69",
    "Book": 8,
    "Page": 281,
@@ -20273,7 +20273,7 @@
  },
  {
    "Name": "Gogo, Mysterious Mime",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$1.58",
    "Book": 8,
    "Page": 282,
@@ -20321,7 +20321,7 @@
  },
  {
    "Name": "Bugenhagen, Wise Elder",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$2.22",
    "Book": 8,
    "Page": 283,
@@ -20345,7 +20345,7 @@
  },
  {
    "Name": "Tromell, Seymour's Butler",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$2.89",
    "Book": 8,
    "Page": 283,
