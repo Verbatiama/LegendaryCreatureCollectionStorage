@@ -19553,7 +19553,7 @@
  },
  {
    "Name": "Clive, Ifrit's Dominant // Ifrit, Warden of Inferno",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$33.86",
    "Book": 7,
    "Page": 272,
@@ -20585,7 +20585,7 @@
  },
  {
    "Name": "Haliya, Guided by Light",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.00",
    "Book": 8,
    "Page": 286,
@@ -20601,7 +20601,7 @@
  },
  {
    "Name": "Tannuk, Steadfast Second",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.00",
    "Book": 8,
    "Page": 287,
@@ -20617,7 +20617,7 @@
  },
  {
    "Name": "Haliya, Ascendant Cadet",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.00",
    "Book": 8,
    "Page": 287,
@@ -20625,7 +20625,7 @@
  },
  {
    "Name": "Mm'menon, Uthros Exile",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.00",
    "Book": 8,
    "Page": 287,
@@ -20633,7 +20633,7 @@
  },
  {
    "Name": "Ragost, Deft Gastronaut",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.00",
    "Book": 8,
    "Page": 287,
@@ -20641,7 +20641,7 @@
  },
  {
    "Name": "Sami, Ship's Engineer",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.00",
    "Book": 8,
    "Page": 287,
@@ -20649,7 +20649,7 @@
  },
  {
    "Name": "Syr Vondam, Sunstar Exemplar",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.00",
    "Book": 8,
    "Page": 287,
@@ -20657,7 +20657,7 @@
  },
  {
    "Name": "Syr Vondam, the Lucent",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.00",
    "Book": 8,
    "Page": 287,
