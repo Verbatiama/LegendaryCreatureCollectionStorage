@@ -17801,7 +17801,7 @@
  },
  {
    "Name": "Kassandra, Eagle Bearer",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$6.66",
    "Book": 7,
    "Page": 248,
@@ -19809,7 +19809,7 @@
  },
  {
    "Name": "Lightning, Army of One",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$11.70",
    "Book": 7,
    "Page": 276,
@@ -19921,7 +19921,7 @@
  },
  {
    "Name": "Vivi Ornitier",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$43.75",
    "Book": 7,
    "Page": 277,
@@ -20593,7 +20593,7 @@
  },
  {
    "Name": "Mm'menon, the Right Hand",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.00",
    "Book": 8,
    "Page": 287,
@@ -20601,7 +20601,7 @@
  },
  {
    "Name": "Alpharael, Stonechosen",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.00",
    "Book": 8,
    "Page": 287,
@@ -20609,7 +20609,7 @@
  },
  {
    "Name": "Xu-Ifit, Osteoharmonist",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.00",
    "Book": 8,
    "Page": 287,
@@ -20633,7 +20633,7 @@
  },
  {
    "Name": "Dyadrine, Synthesis Amalgam",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.00",
    "Book": 8,
    "Page": 287,
@@ -20673,7 +20673,7 @@
  },
  {
    "Name": "Sami, Wildcat Captain",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.00",
    "Book": 8,
    "Page": 288,
