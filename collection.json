@@ -12096,7 +12096,6 @@
    "Slot": 9
  },
  {
-   "Name": "\"Brims\" Barone, Midway Mobster",
    "Owned": 1,
    "Price": "$0.05",
    "Book": 5,
@@ -16145,7 +16144,7 @@
  },
  {
    "Name": "The Meep",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$13.47",
    "Book": 6,
    "Page": 225,
@@ -16153,7 +16152,7 @@
  },
  {
    "Name": "The Celestial Toymaker",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$17.69",
    "Book": 6,
    "Page": 225,
@@ -16161,7 +16160,7 @@
  },
  {
    "Name": "The Fourteenth Doctor",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$94.78",
    "Book": 6,
    "Page": 225,
@@ -16169,7 +16168,7 @@
  },
  {
    "Name": "The Fifteenth Doctor",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$27.97",
    "Book": 6,
    "Page": 225,
@@ -20537,7 +20536,7 @@
  },
  {
    "Name": "Knuckles the Echidna",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.00",
    "Book": 8,
    "Page": 286,
@@ -20545,7 +20544,7 @@
  },
  {
    "Name": "Amy Rose",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.00",
    "Book": 8,
    "Page": 286,
@@ -20553,7 +20552,7 @@
  },
  {
    "Name": "Dr. Eggman",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.00",
    "Book": 8,
    "Page": 286,
@@ -20561,7 +20560,7 @@
  },
  {
    "Name": "Miles \"Tails\" Prower",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.00",
    "Book": 8,
    "Page": 286,
@@ -20569,7 +20568,7 @@
  },
  {
    "Name": "Shadow the Hedgehog",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.00",
    "Book": 8,
    "Page": 286,
@@ -20577,7 +20576,7 @@
  },
  {
    "Name": "Sonic the Hedgehog",
-   "Owned": 0,
+   "Owned": 1,
    "Price": "$0.00",
    "Book": 8,
    "Page": 286,
