@@ -22065,7 +22065,7 @@
   },
   {
     "Name": "Toph, the First Metalbender",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$2.19",
     "Book": 8,
     "Page": 307,
@@ -22081,7 +22081,7 @@
   },
   {
     "Name": "Zhao, Ruthless Admiral",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.06",
     "Book": 8,
     "Page": 307,
@@ -22169,7 +22169,7 @@
   },
   {
     "Name": "Monk Gyatso",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$5.47",
     "Book": 8,
     "Page": 308,
