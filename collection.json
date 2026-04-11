@@ -22849,7 +22849,7 @@
   },
   {
     "Name": "April O'Neil, Hacktivist",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.28",
     "Book": 8,
     "Page": 318,
@@ -22865,7 +22865,7 @@
   },
   {
     "Name": "Donatello, Gadget Master",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.66",
     "Book": 8,
     "Page": 318,
@@ -23217,7 +23217,7 @@
   },
   {
     "Name": "Dark Leo & Shredder",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$8.97",
     "Book": 9,
     "Page": 323,
