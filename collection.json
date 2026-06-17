@@ -21377,7 +21377,7 @@
   },
   {
     "Name": "Spider-Man 2099, Miguel O'Hara",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$8.41",
     "Book": 8,
     "Page": 297,
@@ -21401,7 +21401,7 @@
   },
   {
     "Name": "Ghost-Spider, Gwen Stacy",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$11.24",
     "Book": 8,
     "Page": 298,
@@ -21641,7 +21641,7 @@
   },
   {
     "Name": "The Legend of Kuruk // Avatar Kuruk",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$3.41",
     "Book": 8,
     "Page": 301,
@@ -21905,7 +21905,7 @@
   },
   {
     "Name": "Bumi, Unleashed",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$3.76",
     "Book": 8,
     "Page": 305,
@@ -22361,7 +22361,7 @@
   },
   {
     "Name": "Hei Bai, Forest Guardian",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$6.59",
     "Book": 8,
     "Page": 311,
@@ -23145,7 +23145,7 @@
   },
   {
     "Name": "Michelangelo, Improviser",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$4.50",
     "Book": 9,
     "Page": 322,
@@ -23489,7 +23489,7 @@
   },
   {
     "Name": "Leonardo, Worldly Warrior",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.95",
     "Book": 9,
     "Page": 327,
@@ -23497,7 +23497,7 @@
   },
   {
     "Name": "Splinter & Leo, Father & Son",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.92",
     "Book": 9,
     "Page": 327,
@@ -23545,7 +23545,7 @@
   },
   {
     "Name": "Casey Jones, Asphalt Hooligan",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.50",
     "Book": 9,
     "Page": 328,
@@ -23697,7 +23697,7 @@
   },
   {
     "Name": "Lorehold, the Historian",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$6.35",
     "Book": 9,
     "Page": 330,
@@ -23721,7 +23721,7 @@
   },
   {
     "Name": "Quandrix, the Proof",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$5.43",
     "Book": 9,
     "Page": 330,
@@ -23737,7 +23737,7 @@
   },
   {
     "Name": "Silverquill, the Disputant",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$6.41",
     "Book": 9,
     "Page": 330,
@@ -23753,7 +23753,7 @@
   },
   {
     "Name": "Witherbloom, the Balancer",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$15.06",
     "Book": 9,
     "Page": 330,
