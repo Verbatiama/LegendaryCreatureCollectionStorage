@@ -22737,7 +22737,7 @@
   },
   {
     "Name": "Lucy MacLean, Positively Armed",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$5.36",
     "Book": 8,
     "Page": 316,
@@ -22745,7 +22745,7 @@
   },
   {
     "Name": "The Ghoul, Gunslinger",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$10.47",
     "Book": 8,
     "Page": 316,
@@ -24545,7 +24545,7 @@
   },
   {
     "Name": "The Unbeatable Squirrel Girl",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$5.81",
     "Book": 9,
     "Page": 341,
@@ -26313,7 +26313,7 @@
   },
   {
     "Name": "Big Bertha",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.43",
     "Book": 10,
     "Page": 366,
@@ -26361,7 +26361,7 @@
   },
   {
     "Name": "Doorman",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.00",
     "Book": 10,
     "Page": 367,
@@ -26369,7 +26369,7 @@
   },
   {
     "Name": "Flatman",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.43",
     "Book": 10,
     "Page": 367,
@@ -26409,7 +26409,7 @@
   },
   {
     "Name": "Mister Immortal",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$7.93",
     "Book": 10,
     "Page": 367,
@@ -26449,7 +26449,7 @@
   },
   {
     "Name": "Tippy-Toe, Terrific Partner",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$12.52",
     "Book": 10,
     "Page": 368,
