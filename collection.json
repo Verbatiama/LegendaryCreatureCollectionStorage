@@ -24105,7 +24105,7 @@
   },
   {
     "Name": "Leader, Super-Genius",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$2.90",
     "Book": 9,
     "Page": 335,
@@ -25609,7 +25609,7 @@
   },
   {
     "Name": "Graviton, Fundamental Force",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.59",
     "Book": 9,
     "Page": 356,
@@ -26545,7 +26545,7 @@
   },
   {
     "Name": "Tiger Shark, Abyssal Hunter",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.99",
     "Book": 10,
     "Page": 369,
