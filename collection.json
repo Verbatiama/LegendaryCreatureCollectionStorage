@@ -23993,7 +23993,7 @@
   },
   {
     "Name": "Patriot, Shield Wielder",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.19",
     "Book": 9,
     "Page": 334,
@@ -24081,7 +24081,7 @@
   },
   {
     "Name": "Justice, Vance Astrovik",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.14",
     "Book": 9,
     "Page": 335,
@@ -24217,7 +24217,7 @@
   },
   {
     "Name": "Crossbones, Malicious Mercenary",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.16",
     "Book": 9,
     "Page": 337,
@@ -24281,7 +24281,7 @@
   },
   {
     "Name": "Moonstone, Harsh Mistress",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.17",
     "Book": 9,
     "Page": 338,
@@ -24369,7 +24369,7 @@
   },
   {
     "Name": "Jessica Jones, Private Eye",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.17",
     "Book": 9,
     "Page": 339,
@@ -24385,7 +24385,7 @@
   },
   {
     "Name": "Misty Knight, Hero for Hire",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.24",
     "Book": 9,
     "Page": 339,
@@ -24401,7 +24401,7 @@
   },
   {
     "Name": "Red Hulk",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.26",
     "Book": 9,
     "Page": 339,
@@ -25849,7 +25849,7 @@
   },
   {
     "Name": "Foggy Nelson, On Retainer",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.36",
     "Book": 9,
     "Page": 360,
@@ -25889,7 +25889,7 @@
   },
   {
     "Name": "Matt Murdock, Justice Seeker",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$2.52",
     "Book": 9,
     "Page": 360,
@@ -26217,7 +26217,7 @@
   },
   {
     "Name": "Iron Fist, Hero for Hire",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.74",
     "Book": 10,
     "Page": 365,
@@ -26249,7 +26249,7 @@
   },
   {
     "Name": "Luke Cage, Hero for Hire",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$1.19",
     "Book": 10,
     "Page": 365,
@@ -26529,7 +26529,7 @@
   },
   {
     "Name": "She-Hulk, Attorney-at-Law",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.28",
     "Book": 10,
     "Page": 369,
