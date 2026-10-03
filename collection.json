@@ -19225,7 +19225,7 @@
   },
   {
     "Name": "Zurgo Stormrender",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$4.58",
     "Book": 7,
     "Page": 268,
@@ -22297,7 +22297,7 @@
   },
   {
     "Name": "Iroh, Dragon of the West",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$2.92",
     "Book": 8,
     "Page": 310,
@@ -22305,7 +22305,7 @@
   },
   {
     "Name": "Longshot, Rebel Bowman",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$8.72",
     "Book": 8,
     "Page": 310,
@@ -27393,7 +27393,7 @@
   },
   {
     "Name": "Arni, Humble Scribe",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.38",
     "Book": 10,
     "Page": 381,
@@ -27569,7 +27569,7 @@
   },
   {
     "Name": "Arni, Renowned Champion",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.28",
     "Book": 10,
     "Page": 383,
@@ -27657,7 +27657,7 @@
   },
   {
     "Name": "Edgar, Moonlit Sovereign",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.28",
     "Book": 10,
     "Page": 385,
@@ -27737,7 +27737,7 @@
   },
   {
     "Name": "Edgar, Ancient Bloodlord",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.29",
     "Book": 10,
     "Page": 386,
@@ -27785,7 +27785,7 @@
   },
   {
     "Name": "Tam, the Possibility",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.57",
     "Book": 10,
     "Page": 386,
