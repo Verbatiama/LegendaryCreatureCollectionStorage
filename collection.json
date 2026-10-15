@@ -20701,7 +20701,7 @@
   },
   {
     "Name": "Iron Man, Titan of Innovation",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$19.21",
     "Set Name": "Secret Lair Drop",
     "Book": 7,
@@ -20710,7 +20710,7 @@
   },
   {
     "Name": "Wolverine, Best There Is",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$27.24",
     "Set Name": "Secret Lair Drop",
     "Book": 7,
@@ -24895,7 +24895,7 @@
   },
   {
     "Name": "Toph, Greatest Earthbender",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$19.78",
     "Set Name": "Avatar: The Last Airbender Eternal",
     "Book": 8,
@@ -24913,7 +24913,7 @@
   },
   {
     "Name": "Aang, Airbending Master",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$10.48",
     "Set Name": "Avatar: The Last Airbender Eternal",
     "Book": 8,
@@ -25057,7 +25057,7 @@
   },
   {
     "Name": "Avatar Roku, Firebender",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$11.56",
     "Set Name": "Avatar: The Last Airbender Eternal",
     "Book": 8,
@@ -25120,7 +25120,7 @@
   },
   {
     "Name": "Zuko, Firebending Master",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$10.46",
     "Set Name": "Avatar: The Last Airbender Eternal",
     "Book": 8,
@@ -27181,7 +27181,7 @@
   },
   {
     "Name": "Tony Stark // The Invincible Iron Man",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$3.63",
     "Set Name": "Marvel Super Heroes",
     "Book": 9,
@@ -29035,7 +29035,7 @@
   },
   {
     "Name": "Captain Marvel, Shooting Star",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$8.54",
     "Set Name": "Marvel Super Heroes Commander",
     "Book": 9,
@@ -29206,7 +29206,7 @@
   },
   {
     "Name": "Loki, Lord of Misrule",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$40.67",
     "Set Name": "Marvel Super Heroes Commander",
     "Book": 10,
@@ -29287,7 +29287,7 @@
   },
   {
     "Name": "Wasp, Shrinking Savior",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.27",
     "Set Name": "Marvel Super Heroes Commander",
     "Book": 10,
@@ -29548,7 +29548,7 @@
   },
   {
     "Name": "Nico Minoru, Runaway",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$17.70",
     "Set Name": "Marvel Super Heroes Commander",
     "Book": 10,
@@ -29575,7 +29575,7 @@
   },
   {
     "Name": "The Vision and Scarlet Witch",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$34.48",
     "Set Name": "Marvel Super Heroes Commander",
     "Book": 10,
@@ -29773,7 +29773,7 @@
   },
   {
     "Name": "Wolverine, Claws Out",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$3.33",
     "Set Name": "Marvel Super Heroes Commander",
     "Book": 10,
@@ -29953,7 +29953,7 @@
   },
   {
     "Name": "Iron Man, Modern Marvel",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$11.15",
     "Set Name": "Marvel Super Heroes Commander",
     "Book": 10,
@@ -29971,7 +29971,7 @@
   },
   {
     "Name": "Spider-Man, Web-Spinner",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$9.71",
     "Set Name": "Marvel Super Heroes Commander",
     "Book": 10,
@@ -29980,7 +29980,7 @@
   },
   {
     "Name": "Hulk, Brutal Brawler",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$13.88",
     "Set Name": "Marvel Super Heroes Commander",
     "Book": 10,
@@ -30169,7 +30169,7 @@
   },
   {
     "Name": "Elrond, Moon-Reader",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$1.77",
     "Set Name": "The Hobbit",
     "Book": 10,
@@ -30556,7 +30556,7 @@
   },
   {
     "Name": "Smaug the Impenetrable",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$15.93",
     "Set Name": "The Hobbit Eternal",
     "Book": 10,
@@ -30628,7 +30628,7 @@
   },
   {
     "Name": "Great Goblin, Foul-Hearted",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$17.10",
     "Set Name": "The Hobbit Eternal",
     "Book": 10,
@@ -30655,7 +30655,7 @@
   },
   {
     "Name": "Aerid Konstrari",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$4.10",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -30673,7 +30673,7 @@
   },
   {
     "Name": "Ingris Stingerquill",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$9.19",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -30700,7 +30700,7 @@
   },
   {
     "Name": "Codie, Ravenous Codex",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.22",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -30709,7 +30709,7 @@
   },
   {
     "Name": "Danitha, Sword of Hope",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.19",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -30718,7 +30718,7 @@
   },
   {
     "Name": "Ghalta the Immovable",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.29",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -30727,7 +30727,7 @@
   },
   {
     "Name": "Koth of the Homestead",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.22",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -30754,7 +30754,7 @@
   },
   {
     "Name": "Rescue Girl, First Responder",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.29",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -30763,7 +30763,7 @@
   },
   {
     "Name": "Saheeli, Consul of Oversight",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.15",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -30772,7 +30772,7 @@
   },
   {
     "Name": "Teyo, Lightshield Expert",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.20",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -30781,7 +30781,7 @@
   },
   {
     "Name": "Thalia, the Survivor",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.20",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -30790,7 +30790,7 @@
   },
   {
     "Name": "Tomik, Orzhov Lawmage",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.21",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -30799,7 +30799,7 @@
   },
   {
     "Name": "Yoshimaru, Beloved Companion",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.28",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -30808,7 +30808,7 @@
   },
   {
     "Name": "Yuriko, Blade of the Mighty",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.22",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -30826,7 +30826,7 @@
   },
   {
     "Name": "Fblthp, Impossibly Lost",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.21",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -30835,7 +30835,7 @@
   },
   {
     "Name": "Geist of Saint Thalia",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$1.28",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -30844,7 +30844,7 @@
   },
   {
     "Name": "Hapatra, the Desert Frost",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.15",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -30862,7 +30862,7 @@
   },
   {
     "Name": "Proft, Consulting Detective",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.18",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -30871,7 +30871,7 @@
   },
   {
     "Name": "Ruric Thar, Biomagus",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.20",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -30880,7 +30880,7 @@
   },
   {
     "Name": "Samut, Tyrant of Naktamun",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$6.29",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -30889,7 +30889,7 @@
   },
   {
     "Name": "Traxos, Academy Guardian",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.20",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -30898,7 +30898,7 @@
   },
   {
     "Name": "Yargle, Goliath of Otaria",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.12",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -30907,7 +30907,7 @@
   },
   {
     "Name": "Yuriko, Hope from the Shadows",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.23",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -30916,7 +30916,7 @@
   },
   {
     "Name": "Danitha, Spear of Agony",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.13",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -30925,7 +30925,7 @@
   },
   {
     "Name": "Gallia, Tragic Host",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.14",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -30943,7 +30943,7 @@
   },
   {
     "Name": "Liliana the Repentant",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.76",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -30952,7 +30952,7 @@
   },
   {
     "Name": "Loot, the Anomaly",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.17",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -30961,7 +30961,7 @@
   },
   {
     "Name": "Mabel, Bitter Recluse",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.19",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -30970,7 +30970,7 @@
   },
   {
     "Name": "Massacre Girl, Most Wanted",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.22",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -30979,7 +30979,7 @@
   },
   {
     "Name": "Proft, Sinister Mastermind",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.13",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -30988,7 +30988,7 @@
   },
   {
     "Name": "Teyo, Diamondblade Mage",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.17",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -30997,7 +30997,7 @@
   },
   {
     "Name": "Tinybones, Pocket Nuisance",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.34",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -31006,7 +31006,7 @@
   },
   {
     "Name": "Winter, Tormented Loner",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.19",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -31015,7 +31015,7 @@
   },
   {
     "Name": "Arni, Renowned Champion",
-    "Owned": 1,
+    "Owned": 0,
     "Price": "$0.17",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -31024,7 +31024,7 @@
   },
   {
     "Name": "Gallia, the Merrymaker",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.19",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -31042,7 +31042,7 @@
   },
   {
     "Name": "Kiora of Fire and Ashes",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.16",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -31051,7 +31051,7 @@
   },
   {
     "Name": "Koth, the Geomancer",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.26",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -31060,7 +31060,7 @@
   },
   {
     "Name": "Marwyn, the Clearcutter",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.15",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -31069,7 +31069,7 @@
   },
   {
     "Name": "Pia, Determined Rebuilder",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.17",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -31078,7 +31078,7 @@
   },
   {
     "Name": "Samut, Hazoret's Champion",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$3.21",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -31087,7 +31087,7 @@
   },
   {
     "Name": "Tetsuko Umezawa, Pursuer",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.12",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -31096,7 +31096,7 @@
   },
   {
     "Name": "Tomik, Izzet Sparkmage",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.27",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -31105,7 +31105,7 @@
   },
   {
     "Name": "Winter, Team Player",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.15",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -31123,7 +31123,7 @@
   },
   {
     "Name": "Fblthp, Knows the Way",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.23",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -31132,7 +31132,7 @@
   },
   {
     "Name": "Ghalta the Unstoppable",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.43",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -31141,7 +31141,7 @@
   },
   {
     "Name": "Jiang Yanggu, Never Alone",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.16",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -31150,7 +31150,7 @@
   },
   {
     "Name": "Loot, the Nexus",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.24",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -31159,7 +31159,7 @@
   },
   {
     "Name": "Marwyn, the Preserver",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$1.05",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -31168,7 +31168,7 @@
   },
   {
     "Name": "Pia, Aether Ascetic",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$1.05",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -31177,7 +31177,7 @@
   },
   {
     "Name": "Ruric Thar, Magecrusher",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.17",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -31186,7 +31186,7 @@
   },
   {
     "Name": "Titanbones, Towering Heart",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.16",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -31195,7 +31195,7 @@
   },
   {
     "Name": "Yoshimaru, Scrappy Stray",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.20",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -31213,7 +31213,7 @@
   },
   {
     "Name": "Hapatra, the Desert Fang",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.21",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -31231,7 +31231,7 @@
   },
   {
     "Name": "Kiora of Salt and Sand",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.18",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -31240,7 +31240,7 @@
   },
   {
     "Name": "Mabel, Valley Hero",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.21",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -31249,7 +31249,7 @@
   },
   {
     "Name": "Saheeli, Jewel of Avishkar",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.24",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -31267,7 +31267,7 @@
   },
   {
     "Name": "Vraska, Soul of Stone",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.58",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -31276,7 +31276,7 @@
   },
   {
     "Name": "Vraska, the Cutting Glare",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.33",
     "Set Name": "Reality Fracture",
     "Book": 10,
@@ -31294,7 +31294,7 @@
   },
   {
     "Name": "Traxos, Scourge Eternal",
-    "Owned": 0,
+    "Owned": 1,
     "Price": "$0.19",
     "Set Name": "Reality Fracture",
     "Book": 10,
